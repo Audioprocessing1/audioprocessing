@@ -1,0 +1,561 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://tinyurl.com/audioprocessing_2" resolutions="1x" timestamp="1553609969209">
+  <folder name="css">
+    <file name="site_global.css" crc="103506535"/>
+    <file name="master_a-master.css" crc="4208192658" ref="izotope-rx-7-audio-editor-advanced-vst:izotope-ozone-6-advanced:tunefab-spotify-music-converter:symphony-essentials-percussion-kontakt-library:audio-record-wizard:tracktion-waveform-9-vst:tracktion-5:sugarbytes-effectrix:izotope-stutter-edit:izotope-rx-loudness-control:cableguys-halftime-vst:toontrack-ezkeys-complete-vsti:widi-music-recognition-system-pro:magix-sound-forge-audio-studio-2019:native-instruments-discovery-series-india-kontakt-library:magix-audio-and-music-lab-2016-premium:dorico:yogen-vocal-remover:izotope-ozone-advanced-8-vst:magix-acid-pro-8:izotope-nectar-3-plugin:yamaha-vocaloid-5.0.3---libraries-standalone-vsti:native-instruments-absynth-vsti:lounge-lizard-ep-vst:synapse-audio-dune-vsti:refx-nexus-v.2.2-free:presonus-notion-6:valhalla-plate--room--vintage-verb-vst:nch-mixpad-audio-mixer:neuratron-audioscore-ultimate:izotope-vocal-doubler-vst:vsl-horizon-series-saxophones-i-kontakt-library:spectrasonics-trilian-vsti:sylenth1-preset-banks-collection:yamaha-vocaloid-v4:presonus-studio-one:spitfire-audio-labs-kontakt-libraries:izotope-vocalsynth:xfer-records-serum-serumfx-cthulhu-lfotool-ott:steven-slate-drums-ssd4-sampler---library-platinum:xfer-serum-1.20.b5:spinnin-records-base-vst:izotope-trash-2-vst:xfer-records-cthulhu:spectrasonics-stylus-rmx-vsti:nextup-textaloud-2019:izotope-rx-6-audio-editor-advanced:xfer-records-lfotool-vst:neuratron-photoscore---notateme-ultimate-2018:izotope-mobius-filter-vst:apple-mainstage:izotope-insight-vst:neuratron-audio-score-ultimate:dolby-atmos:sound-normalizer:zynaptiq-–-morph-vst:loopmasters-bass-master-vst-plugin:polyverse-infected-mushroom-manipulator:youlean-loudness-meter-pro-vst-plugin:serato-sample-vst-plugin:plogue-plugins-pack:radioboss-advanced:xils-vocoder-5000-vsts:razer-surround-pro:session-guitarist-electric-sunburst-kontakt-vst-library:shevannai-the-voices-of-elves-kontakt-library:refx-nexus-house-vol-1-expansion-pack:sony-spectralayers-pro:nch-express-dictate:plogue-aria-engine:refx-nexus-v.2.2---all-official-banks:longcat-audio-h3d-vst-plugin:sonik-synth-2-vsti:pianoteq-stage-6-vst:wondershare-streaming-audio-recorder:waves-complete-plugins-2018-v10:pianoteq---addons---presets:sonarworks-reference-4-studio:sonic-academy-kick-2-vst:line6-helix-native-vst:liquidsonics-reverberate-2-vst:qps-qimera-1.6.3:presonus-studio-one-professional-4:logic-pro-x-dmg:pspaudioware-vst-bundle:sonalksis-all-plugins-bundle-vst:2c-audio-aether-vst:solid-state-logic-duende-native-vst:rc-20-retro-color:lakeside-audio-isola-fx-2:4front-truepianos-vst:letasoft-sound-booster:rc-20-retro-color-vst:slate-digital-verbsuite-classics-plugin:mathew-lane-–-drms-spatial-processor-vst:pdftomusic-pro:lexicon-reverb-bundle-vst:lacrimosa-epic-female-choir-kontakt-library:slate-digital-virtual-buss-compressors-vst:mp3tag-2019:softplug-adventus-vst:keyscape-13-kontakt-library:musiclab-realeight:luxonix-ravity-vst-bundle:korg-legacy-collection-vst-bundle:wavepad-sound-editor-master-edition:overloud-mark-studio-vst:slate-digital-vmr-complete-bundle-vst:magix-sound-forge-audio-studio-10:sidify-spotify-music-converter:korg-legacy-collection-special-bundle:output-analog-strings-kontakt-library:jam-origin-midi-guitar-2-vst:overloud-th3-vst:magix-samplitude-music-studio-2017:internet-ability-pro:native-instruments-session-horns-kontakt-library:accusonus-era-bundle-pro-2:naturalreader-professional:virtual-dj-studio-2015:image-line-fl-studio-producer-edition-12.3-portable:vox-engine-2-for-kontakt:impact-hits-kontakt-library:mastering-the-mix-levels:morphvox-pro:albino-3-vst:index:native-instruments-kontakt-6:virtual-audio-cable:modo-bass:dmg-audio-all-vst-plugin-bundle:ignite-heat-up-v2-vst---update:synchro-arts-revoice-pro:diamond-cut-dc-live-forensics-audio-laboratory:ichiro-toda-–-synth1-plugin:izotope-stutter:ik-multimedia-syntronik-vst:vintage-organs-kontakt-library:ik-multimedia-t-racks-5-vst:native-instruments-session-guitarist:vengeance-electroshock-vol-1-and-2:tal-u-no-lx-vst:ik-multimedia-amplitube-4-vst:synthmaster-one-vst:zplane-elastique-pitch-vst:idoser---all-doses:voxal-voice-changer:vengeance-avenger:hypersonic-2-vst:harmony-engine-vst:regroover-pro-vst:arturia-v-plugins-collection-vst:jbridge:dear-reality-dearvr-pro-vst:u-he-hive-vsti:glitch-2-vst:gsi-vb3-ii-vst:gilisoft-audio-recorder-pro:cantabile-performer-vst:apowersoft-streaming-audio-recorder:mixed-in-key:mixvibes-remixlive:air-music-tech-xpand2:fxsound-enhancer-premium:d16-all-plugins-total-bundle-vst:n-track-studio-ex:celemony-melodyne-editor:mp3-resizer:audiothing-plugins-bundle-vst:scott-storch-vst:magic-ab-vst:repeater-vst:future-bass-midi-wav-presets-pack:cakewalk-sonitus-fx-plugin-suite-vst:toontrack-ezmix-2-with-expansion-pack:ableton-live-suite:scarbee-vintage-keys-kontakt-library:auto-tune-evo:swar-systems-swarplugin:scaler-vst:fabfilter-total-bundle-vst:auto-tune-efx:antares-auto-tune-evo:tone2-–-electrax:antares-avox-evo-vocal-vst-bundle:fab-filters-plugins-pack:bias-amp-2:fabfilter-pro:izotope-vocalsynth-v2:tone2-gladiator-vsti:sampletank-vst:avid-protools:filmstro-pro:tone2-saurus2:fl-studio-producer-edition:toraverb-vst:fl-studio-xxl-producer-edition-v8.0.2---autotune-v5:antares-auto-tune:sausage-fattener-vst-plugin:chris-hein-solo-violin-kontakt-library:bornemark-broomstick-bass-vsti:bigasoft-audio-converter:superior-drummer-3:celemony-melodyne-editor-setup:magix-sound-forge-pro-11:sample-logic-xosphere-kontact:chromaphone-vst:samplehero-evoque-vocal-synth-kontakt-library:oasys-software-suite-14.1:audio4fun-av-voice-changer-diamond:sample-logic-–-xosphere-2-kontakt-library:fl-studio-20.1.1-jan-2019:cockos-reaper:tag-rename:classik-studio-reverb-vst:cyberlink-waveeditor:th-studio-trailer-elements-cinematic-sounds-pack-kontakt-library:fl-studio-12.5-signature-bundle---all-fl-studio-plugins:cytomic-the-glue-vst:noteburner-itunes-drm-audio-converter:exhale-vocal-engine-vst-kontakt-library:audacity:nomad-factory-magma-vst:soundtoys-v5-vst:cool-edit-pro:motu-digital-performer-v10:credland-audio-stereo-savage-vst:cyberlink-audiodirector-ultra:sonar-x3-producer-edition:spectrasonics-omnisphere-2-complete-pack:ethno-world-6-complete-vst:nicky-romero-kickstart-vst:mixvibes-cross:black-octopus-mystical-indian-percussion-kontakt-library-vst:motu-daw:reveal-sound-spire-vst-dmg:soundplant:sony-sound-forge-pro:reveal-sound-spire:miroslav-philharmonik-vst:emagic-logic-audio-platinum:blue-cat-audio-–-blue-cat’s-all-plug-ins-pack-2018-vst:synapse-audio-dune-3-vst:adobe-audition:abbey-road-modern-drummer-kontakt-library:808-studio-vst:eiosis-aireq-premium-vst-plugin:808-bloodline-vst:breakaway-audio-enhancer:empty-250-vst:avs-audio-editor:arturia-–-pigments-vst:drumdrops-drums-bundles-kontakt-library:8dio-edm-trap-kontakt-library:eiosis-e2deesser-vst:midiculous:tone2-electra2:native-instruments-discovery-series-middle-east-kontakt-library:cakewalk-sonar-platinum-23-with-plugins---content:audials-one:native-instruments-fx-vst-pack:tone2-icarus:virtual-dj-pro-8---plugins:acoustica-mixcraft-pro-studio:native-instruments-kontakt-5.7.3-vst:ample-sound-–-ample-guitar-m-iii-3:izotope-ozone-advanced-v7:midirunner-123tag:meldaproduction-–-maudioplugins-2019-vst:drumagog-platinum-5---library:mercuriall-–-bundle-vst"/>
+    <file name="izotope-rx-7-audio-editor-advanced-vst.css" crc="93354445" ref="izotope-rx-7-audio-editor-advanced-vst"/>
+    <file name="izotope-ozone-6-advanced.css" crc="93354445" ref="izotope-ozone-6-advanced"/>
+    <file name="tunefab-spotify-music-converter.css" crc="93354445" ref="tunefab-spotify-music-converter"/>
+    <file name="symphony-essentials-percussion-kontakt-library.css" crc="93354445" ref="symphony-essentials-percussion-kontakt-library"/>
+    <file name="audio-record-wizard.css" crc="93354445" ref="audio-record-wizard"/>
+    <file name="tracktion-waveform-9-vst.css" crc="93354445" ref="tracktion-waveform-9-vst"/>
+    <file name="tracktion-5.css" crc="93354445" ref="tracktion-5"/>
+    <file name="sugarbytes-effectrix.css" crc="93354445" ref="sugarbytes-effectrix"/>
+    <file name="izotope-stutter-edit.css" crc="93354445" ref="izotope-stutter-edit"/>
+    <file name="izotope-rx-loudness-control.css" crc="93354445" ref="izotope-rx-loudness-control"/>
+    <file name="cableguys-halftime-vst.css" crc="93354445" ref="cableguys-halftime-vst"/>
+    <file name="toontrack-ezkeys-complete-vsti.css" crc="93354445" ref="toontrack-ezkeys-complete-vsti"/>
+    <file name="widi-music-recognition-system-pro.css" crc="93354445" ref="widi-music-recognition-system-pro"/>
+    <file name="magix-sound-forge-audio-studio-2019.css" crc="93354445" ref="magix-sound-forge-audio-studio-2019"/>
+    <file name="native-instruments-discovery-series-india-kontakt-library.css" crc="93354445" ref="native-instruments-discovery-series-india-kontakt-library"/>
+    <file name="magix-audio-and-music-lab-2016-premium.css" crc="93354445" ref="magix-audio-and-music-lab-2016-premium"/>
+    <file name="dorico.css" crc="93354445" ref="dorico"/>
+    <file name="yogen-vocal-remover.css" crc="93354445" ref="yogen-vocal-remover"/>
+    <file name="izotope-ozone-advanced-8-vst.css" crc="93354445" ref="izotope-ozone-advanced-8-vst"/>
+    <file name="magix-acid-pro-8.css" crc="93354445" ref="magix-acid-pro-8"/>
+    <file name="izotope-nectar-3-plugin.css" crc="93354445" ref="izotope-nectar-3-plugin"/>
+    <file name="yamaha-vocaloid-5_0_3---libraries-standalone-vsti.css" crc="93354445" ref="yamaha-vocaloid-5.0.3---libraries-standalone-vsti"/>
+    <file name="native-instruments-absynth-vsti.css" crc="93354445" ref="native-instruments-absynth-vsti"/>
+    <file name="lounge-lizard-ep-vst.css" crc="93354445" ref="lounge-lizard-ep-vst"/>
+    <file name="synapse-audio-dune-vsti.css" crc="93354445" ref="synapse-audio-dune-vsti"/>
+    <file name="refx-nexus-v_2_2-free.css" crc="93354445" ref="refx-nexus-v.2.2-free"/>
+    <file name="presonus-notion-6.css" crc="93354445" ref="presonus-notion-6"/>
+    <file name="valhalla-plate--room--vintage-verb-vst.css" crc="93354445" ref="valhalla-plate--room--vintage-verb-vst"/>
+    <file name="nch-mixpad-audio-mixer.css" crc="93354445" ref="nch-mixpad-audio-mixer"/>
+    <file name="neuratron-audioscore-ultimate.css" crc="93354445" ref="neuratron-audioscore-ultimate"/>
+    <file name="izotope-vocal-doubler-vst.css" crc="93354445" ref="izotope-vocal-doubler-vst"/>
+    <file name="vsl-horizon-series-saxophones-i-kontakt-library.css" crc="93354445" ref="vsl-horizon-series-saxophones-i-kontakt-library"/>
+    <file name="spectrasonics-trilian-vsti.css" crc="93354445" ref="spectrasonics-trilian-vsti"/>
+    <file name="sylenth1-preset-banks-collection.css" crc="93354445" ref="sylenth1-preset-banks-collection"/>
+    <file name="yamaha-vocaloid-v4.css" crc="93354445" ref="yamaha-vocaloid-v4"/>
+    <file name="presonus-studio-one.css" crc="93354445" ref="presonus-studio-one"/>
+    <file name="spitfire-audio-labs-kontakt-libraries.css" crc="93354445" ref="spitfire-audio-labs-kontakt-libraries"/>
+    <file name="izotope-vocalsynth.css" crc="93354445" ref="izotope-vocalsynth"/>
+    <file name="xfer-records-serum-serumfx-cthulhu-lfotool-ott.css" crc="93354445" ref="xfer-records-serum-serumfx-cthulhu-lfotool-ott"/>
+    <file name="steven-slate-drums-ssd4-sampler---library-platinum.css" crc="93354445" ref="steven-slate-drums-ssd4-sampler---library-platinum"/>
+    <file name="xfer-serum-1_20_b5.css" crc="93354445" ref="xfer-serum-1.20.b5"/>
+    <file name="spinnin-records-base-vst.css" crc="93354445" ref="spinnin-records-base-vst"/>
+    <file name="izotope-trash-2-vst.css" crc="93354445" ref="izotope-trash-2-vst"/>
+    <file name="xfer-records-cthulhu.css" crc="93354445" ref="xfer-records-cthulhu"/>
+    <file name="spectrasonics-stylus-rmx-vsti.css" crc="93354445" ref="spectrasonics-stylus-rmx-vsti"/>
+    <file name="nextup-textaloud-2019.css" crc="93354445" ref="nextup-textaloud-2019"/>
+    <file name="izotope-rx-6-audio-editor-advanced.css" crc="93354445" ref="izotope-rx-6-audio-editor-advanced"/>
+    <file name="xfer-records-lfotool-vst.css" crc="93354445" ref="xfer-records-lfotool-vst"/>
+    <file name="neuratron-photoscore---notateme-ultimate-2018.css" crc="93354445" ref="neuratron-photoscore---notateme-ultimate-2018"/>
+    <file name="izotope-mobius-filter-vst.css" crc="93354445" ref="izotope-mobius-filter-vst"/>
+    <file name="apple-mainstage.css" crc="93354445" ref="apple-mainstage"/>
+    <file name="izotope-insight-vst.css" crc="93354445" ref="izotope-insight-vst"/>
+    <file name="neuratron-audio-score-ultimate.css" crc="93354445" ref="neuratron-audio-score-ultimate"/>
+    <file name="dolby-atmos.css" crc="93354445" ref="dolby-atmos"/>
+    <file name="sound-normalizer.css" crc="93354445" ref="sound-normalizer"/>
+    <file name="zynaptiq-_-morph-vst.css" crc="93354445" ref="zynaptiq-–-morph-vst"/>
+    <file name="loopmasters-bass-master-vst-plugin.css" crc="93354445" ref="loopmasters-bass-master-vst-plugin"/>
+    <file name="polyverse-infected-mushroom-manipulator.css" crc="93354445" ref="polyverse-infected-mushroom-manipulator"/>
+    <file name="youlean-loudness-meter-pro-vst-plugin.css" crc="93354445" ref="youlean-loudness-meter-pro-vst-plugin"/>
+    <file name="serato-sample-vst-plugin.css" crc="93354445" ref="serato-sample-vst-plugin"/>
+    <file name="plogue-plugins-pack.css" crc="93354445" ref="plogue-plugins-pack"/>
+    <file name="radioboss-advanced.css" crc="93354445" ref="radioboss-advanced"/>
+    <file name="xils-vocoder-5000-vsts.css" crc="93354445" ref="xils-vocoder-5000-vsts"/>
+    <file name="razer-surround-pro.css" crc="93354445" ref="razer-surround-pro"/>
+    <file name="session-guitarist-electric-sunburst-kontakt-vst-library.css" crc="93354445" ref="session-guitarist-electric-sunburst-kontakt-vst-library"/>
+    <file name="shevannai-the-voices-of-elves-kontakt-library.css" crc="93354445" ref="shevannai-the-voices-of-elves-kontakt-library"/>
+    <file name="refx-nexus-house-vol-1-expansion-pack.css" crc="93354445" ref="refx-nexus-house-vol-1-expansion-pack"/>
+    <file name="sony-spectralayers-pro.css" crc="93354445" ref="sony-spectralayers-pro"/>
+    <file name="nch-express-dictate.css" crc="93354445" ref="nch-express-dictate"/>
+    <file name="plogue-aria-engine.css" crc="93354445" ref="plogue-aria-engine"/>
+    <file name="refx-nexus-v_2_2---all-official-banks.css" crc="93354445" ref="refx-nexus-v.2.2---all-official-banks"/>
+    <file name="longcat-audio-h3d-vst-plugin.css" crc="93354445" ref="longcat-audio-h3d-vst-plugin"/>
+    <file name="sonik-synth-2-vsti.css" crc="93354445" ref="sonik-synth-2-vsti"/>
+    <file name="pianoteq-stage-6-vst.css" crc="93354445" ref="pianoteq-stage-6-vst"/>
+    <file name="wondershare-streaming-audio-recorder.css" crc="93354445" ref="wondershare-streaming-audio-recorder"/>
+    <file name="waves-complete-plugins-2018-v10.css" crc="93354445" ref="waves-complete-plugins-2018-v10"/>
+    <file name="pianoteq---addons---presets.css" crc="93354445" ref="pianoteq---addons---presets"/>
+    <file name="sonarworks-reference-4-studio.css" crc="93354445" ref="sonarworks-reference-4-studio"/>
+    <file name="sonic-academy-kick-2-vst.css" crc="93354445" ref="sonic-academy-kick-2-vst"/>
+    <file name="line6-helix-native-vst.css" crc="93354445" ref="line6-helix-native-vst"/>
+    <file name="liquidsonics-reverberate-2-vst.css" crc="93354445" ref="liquidsonics-reverberate-2-vst"/>
+    <file name="qps-qimera-1_6_3.css" crc="93354445" ref="qps-qimera-1.6.3"/>
+    <file name="presonus-studio-one-professional-4.css" crc="93354445" ref="presonus-studio-one-professional-4"/>
+    <file name="logic-pro-x-dmg.css" crc="93354445" ref="logic-pro-x-dmg"/>
+    <file name="pspaudioware-vst-bundle.css" crc="93354445" ref="pspaudioware-vst-bundle"/>
+    <file name="sonalksis-all-plugins-bundle-vst.css" crc="93354445" ref="sonalksis-all-plugins-bundle-vst"/>
+    <file name="2c-audio-aether-vst.css" crc="93354445" ref="2c-audio-aether-vst"/>
+    <file name="solid-state-logic-duende-native-vst.css" crc="93354445" ref="solid-state-logic-duende-native-vst"/>
+    <file name="rc-20-retro-color.css" crc="93354445" ref="rc-20-retro-color"/>
+    <file name="lakeside-audio-isola-fx-2.css" crc="93354445" ref="lakeside-audio-isola-fx-2"/>
+    <file name="4front-truepianos-vst.css" crc="93354445" ref="4front-truepianos-vst"/>
+    <file name="letasoft-sound-booster.css" crc="93354445" ref="letasoft-sound-booster"/>
+    <file name="rc-20-retro-color-vst.css" crc="93354445" ref="rc-20-retro-color-vst"/>
+    <file name="slate-digital-verbsuite-classics-plugin.css" crc="93354445" ref="slate-digital-verbsuite-classics-plugin"/>
+    <file name="mathew-lane-_-drms-spatial-processor-vst.css" crc="93354445" ref="mathew-lane-–-drms-spatial-processor-vst"/>
+    <file name="pdftomusic-pro.css" crc="93354445" ref="pdftomusic-pro"/>
+    <file name="lexicon-reverb-bundle-vst.css" crc="93354445" ref="lexicon-reverb-bundle-vst"/>
+    <file name="lacrimosa-epic-female-choir-kontakt-library.css" crc="93354445" ref="lacrimosa-epic-female-choir-kontakt-library"/>
+    <file name="slate-digital-virtual-buss-compressors-vst.css" crc="93354445" ref="slate-digital-virtual-buss-compressors-vst"/>
+    <file name="mp3tag-2019.css" crc="93354445" ref="mp3tag-2019"/>
+    <file name="softplug-adventus-vst.css" crc="93354445" ref="softplug-adventus-vst"/>
+    <file name="keyscape-13-kontakt-library.css" crc="93354445" ref="keyscape-13-kontakt-library"/>
+    <file name="musiclab-realeight.css" crc="93354445" ref="musiclab-realeight"/>
+    <file name="luxonix-ravity-vst-bundle.css" crc="93354445" ref="luxonix-ravity-vst-bundle"/>
+    <file name="korg-legacy-collection-vst-bundle.css" crc="93354445" ref="korg-legacy-collection-vst-bundle"/>
+    <file name="wavepad-sound-editor-master-edition.css" crc="93354445" ref="wavepad-sound-editor-master-edition"/>
+    <file name="overloud-mark-studio-vst.css" crc="93354445" ref="overloud-mark-studio-vst"/>
+    <file name="slate-digital-vmr-complete-bundle-vst.css" crc="93354445" ref="slate-digital-vmr-complete-bundle-vst"/>
+    <file name="magix-sound-forge-audio-studio-10.css" crc="93354445" ref="magix-sound-forge-audio-studio-10"/>
+    <file name="sidify-spotify-music-converter.css" crc="93354445" ref="sidify-spotify-music-converter"/>
+    <file name="korg-legacy-collection-special-bundle.css" crc="93354445" ref="korg-legacy-collection-special-bundle"/>
+    <file name="output-analog-strings-kontakt-library.css" crc="93354445" ref="output-analog-strings-kontakt-library"/>
+    <file name="jam-origin-midi-guitar-2-vst.css" crc="93354445" ref="jam-origin-midi-guitar-2-vst"/>
+    <file name="overloud-th3-vst.css" crc="93354445" ref="overloud-th3-vst"/>
+    <file name="magix-samplitude-music-studio-2017.css" crc="93354445" ref="magix-samplitude-music-studio-2017"/>
+    <file name="internet-ability-pro.css" crc="93354445" ref="internet-ability-pro"/>
+    <file name="native-instruments-session-horns-kontakt-library.css" crc="93354445" ref="native-instruments-session-horns-kontakt-library"/>
+    <file name="accusonus-era-bundle-pro-2.css" crc="93354445" ref="accusonus-era-bundle-pro-2"/>
+    <file name="naturalreader-professional.css" crc="93354445" ref="naturalreader-professional"/>
+    <file name="virtual-dj-studio-2015.css" crc="93354445" ref="virtual-dj-studio-2015"/>
+    <file name="image-line-fl-studio-producer-edition-12_3-portable.css" crc="93354445" ref="image-line-fl-studio-producer-edition-12.3-portable"/>
+    <file name="vox-engine-2-for-kontakt.css" crc="93354445" ref="vox-engine-2-for-kontakt"/>
+    <file name="impact-hits-kontakt-library.css" crc="93354445" ref="impact-hits-kontakt-library"/>
+    <file name="mastering-the-mix-levels.css" crc="93354445" ref="mastering-the-mix-levels"/>
+    <file name="morphvox-pro.css" crc="93354445" ref="morphvox-pro"/>
+    <file name="albino-3-vst.css" crc="93354445" ref="albino-3-vst"/>
+    <file name="index.css" crc="93354445" ref="index"/>
+    <file name="native-instruments-kontakt-6.css" crc="93354445" ref="native-instruments-kontakt-6"/>
+    <file name="virtual-audio-cable.css" crc="93354445" ref="virtual-audio-cable"/>
+    <file name="modo-bass.css" crc="93354445" ref="modo-bass"/>
+    <file name="dmg-audio-all-vst-plugin-bundle.css" crc="93354445" ref="dmg-audio-all-vst-plugin-bundle"/>
+    <file name="ignite-heat-up-v2-vst---update.css" crc="93354445" ref="ignite-heat-up-v2-vst---update"/>
+    <file name="synchro-arts-revoice-pro.css" crc="93354445" ref="synchro-arts-revoice-pro"/>
+    <file name="diamond-cut-dc-live-forensics-audio-laboratory.css" crc="93354445" ref="diamond-cut-dc-live-forensics-audio-laboratory"/>
+    <file name="ichiro-toda-_-synth1-plugin.css" crc="93354445" ref="ichiro-toda-–-synth1-plugin"/>
+    <file name="izotope-stutter.css" crc="93354445" ref="izotope-stutter"/>
+    <file name="ik-multimedia-syntronik-vst.css" crc="93354445" ref="ik-multimedia-syntronik-vst"/>
+    <file name="vintage-organs-kontakt-library.css" crc="93354445" ref="vintage-organs-kontakt-library"/>
+    <file name="ik-multimedia-t-racks-5-vst.css" crc="93354445" ref="ik-multimedia-t-racks-5-vst"/>
+    <file name="native-instruments-session-guitarist.css" crc="93354445" ref="native-instruments-session-guitarist"/>
+    <file name="vengeance-electroshock-vol-1-and-2.css" crc="93354445" ref="vengeance-electroshock-vol-1-and-2"/>
+    <file name="tal-u-no-lx-vst.css" crc="93354445" ref="tal-u-no-lx-vst"/>
+    <file name="ik-multimedia-amplitube-4-vst.css" crc="93354445" ref="ik-multimedia-amplitube-4-vst"/>
+    <file name="synthmaster-one-vst.css" crc="93354445" ref="synthmaster-one-vst"/>
+    <file name="zplane-elastique-pitch-vst.css" crc="93354445" ref="zplane-elastique-pitch-vst"/>
+    <file name="idoser---all-doses.css" crc="93354445" ref="idoser---all-doses"/>
+    <file name="voxal-voice-changer.css" crc="93354445" ref="voxal-voice-changer"/>
+    <file name="vengeance-avenger.css" crc="93354445" ref="vengeance-avenger"/>
+    <file name="hypersonic-2-vst.css" crc="93354445" ref="hypersonic-2-vst"/>
+    <file name="harmony-engine-vst.css" crc="93354445" ref="harmony-engine-vst"/>
+    <file name="regroover-pro-vst.css" crc="93354445" ref="regroover-pro-vst"/>
+    <file name="arturia-v-plugins-collection-vst.css" crc="93354445" ref="arturia-v-plugins-collection-vst"/>
+    <file name="jbridge.css" crc="93354445" ref="jbridge"/>
+    <file name="dear-reality-dearvr-pro-vst.css" crc="93354445" ref="dear-reality-dearvr-pro-vst"/>
+    <file name="u-he-hive-vsti.css" crc="93354445" ref="u-he-hive-vsti"/>
+    <file name="glitch-2-vst.css" crc="93354445" ref="glitch-2-vst"/>
+    <file name="gsi-vb3-ii-vst.css" crc="93354445" ref="gsi-vb3-ii-vst"/>
+    <file name="gilisoft-audio-recorder-pro.css" crc="93354445" ref="gilisoft-audio-recorder-pro"/>
+    <file name="cantabile-performer-vst.css" crc="93354445" ref="cantabile-performer-vst"/>
+    <file name="apowersoft-streaming-audio-recorder.css" crc="93354445" ref="apowersoft-streaming-audio-recorder"/>
+    <file name="mixed-in-key.css" crc="93354445" ref="mixed-in-key"/>
+    <file name="mixvibes-remixlive.css" crc="93354445" ref="mixvibes-remixlive"/>
+    <file name="air-music-tech-xpand2.css" crc="93354445" ref="air-music-tech-xpand2"/>
+    <file name="fxsound-enhancer-premium.css" crc="93354445" ref="fxsound-enhancer-premium"/>
+    <file name="d16-all-plugins-total-bundle-vst.css" crc="93354445" ref="d16-all-plugins-total-bundle-vst"/>
+    <file name="n-track-studio-ex.css" crc="93354445" ref="n-track-studio-ex"/>
+    <file name="celemony-melodyne-editor.css" crc="93354445" ref="celemony-melodyne-editor"/>
+    <file name="mp3-resizer.css" crc="93354445" ref="mp3-resizer"/>
+    <file name="audiothing-plugins-bundle-vst.css" crc="93354445" ref="audiothing-plugins-bundle-vst"/>
+    <file name="scott-storch-vst.css" crc="93354445" ref="scott-storch-vst"/>
+    <file name="magic-ab-vst.css" crc="93354445" ref="magic-ab-vst"/>
+    <file name="repeater-vst.css" crc="93354445" ref="repeater-vst"/>
+    <file name="future-bass-midi-wav-presets-pack.css" crc="93354445" ref="future-bass-midi-wav-presets-pack"/>
+    <file name="cakewalk-sonitus-fx-plugin-suite-vst.css" crc="93354445" ref="cakewalk-sonitus-fx-plugin-suite-vst"/>
+    <file name="toontrack-ezmix-2-with-expansion-pack.css" crc="93354445" ref="toontrack-ezmix-2-with-expansion-pack"/>
+    <file name="ableton-live-suite.css" crc="93354445" ref="ableton-live-suite"/>
+    <file name="scarbee-vintage-keys-kontakt-library.css" crc="93354445" ref="scarbee-vintage-keys-kontakt-library"/>
+    <file name="auto-tune-evo.css" crc="93354445" ref="auto-tune-evo"/>
+    <file name="swar-systems-swarplugin.css" crc="93354445" ref="swar-systems-swarplugin"/>
+    <file name="scaler-vst.css" crc="93354445" ref="scaler-vst"/>
+    <file name="fabfilter-total-bundle-vst.css" crc="93354445" ref="fabfilter-total-bundle-vst"/>
+    <file name="auto-tune-efx.css" crc="93354445" ref="auto-tune-efx"/>
+    <file name="antares-auto-tune-evo.css" crc="93354445" ref="antares-auto-tune-evo"/>
+    <file name="tone2-_-electrax.css" crc="93354445" ref="tone2-–-electrax"/>
+    <file name="antares-avox-evo-vocal-vst-bundle.css" crc="93354445" ref="antares-avox-evo-vocal-vst-bundle"/>
+    <file name="fab-filters-plugins-pack.css" crc="93354445" ref="fab-filters-plugins-pack"/>
+    <file name="bias-amp-2.css" crc="93354445" ref="bias-amp-2"/>
+    <file name="fabfilter-pro.css" crc="93354445" ref="fabfilter-pro"/>
+    <file name="izotope-vocalsynth-v2.css" crc="93354445" ref="izotope-vocalsynth-v2"/>
+    <file name="tone2-gladiator-vsti.css" crc="93354445" ref="tone2-gladiator-vsti"/>
+    <file name="sampletank-vst.css" crc="93354445" ref="sampletank-vst"/>
+    <file name="avid-protools.css" crc="93354445" ref="avid-protools"/>
+    <file name="filmstro-pro.css" crc="93354445" ref="filmstro-pro"/>
+    <file name="tone2-saurus2.css" crc="93354445" ref="tone2-saurus2"/>
+    <file name="fl-studio-producer-edition.css" crc="93354445" ref="fl-studio-producer-edition"/>
+    <file name="toraverb-vst.css" crc="93354445" ref="toraverb-vst"/>
+    <file name="fl-studio-xxl-producer-edition-v8_0_2---autotune-v5.css" crc="93354445" ref="fl-studio-xxl-producer-edition-v8.0.2---autotune-v5"/>
+    <file name="antares-auto-tune.css" crc="93354445" ref="antares-auto-tune"/>
+    <file name="sausage-fattener-vst-plugin.css" crc="93354445" ref="sausage-fattener-vst-plugin"/>
+    <file name="chris-hein-solo-violin-kontakt-library.css" crc="93354445" ref="chris-hein-solo-violin-kontakt-library"/>
+    <file name="bornemark-broomstick-bass-vsti.css" crc="93354445" ref="bornemark-broomstick-bass-vsti"/>
+    <file name="bigasoft-audio-converter.css" crc="93354445" ref="bigasoft-audio-converter"/>
+    <file name="superior-drummer-3.css" crc="93354445" ref="superior-drummer-3"/>
+    <file name="celemony-melodyne-editor-setup.css" crc="93354445" ref="celemony-melodyne-editor-setup"/>
+    <file name="magix-sound-forge-pro-11.css" crc="93354445" ref="magix-sound-forge-pro-11"/>
+    <file name="sample-logic-xosphere-kontact.css" crc="93354445" ref="sample-logic-xosphere-kontact"/>
+    <file name="chromaphone-vst.css" crc="93354445" ref="chromaphone-vst"/>
+    <file name="samplehero-evoque-vocal-synth-kontakt-library.css" crc="93354445" ref="samplehero-evoque-vocal-synth-kontakt-library"/>
+    <file name="oasys-software-suite-14_1.css" crc="93354445" ref="oasys-software-suite-14.1"/>
+    <file name="audio4fun-av-voice-changer-diamond.css" crc="93354445" ref="audio4fun-av-voice-changer-diamond"/>
+    <file name="sample-logic-_-xosphere-2-kontakt-library.css" crc="93354445" ref="sample-logic-–-xosphere-2-kontakt-library"/>
+    <file name="fl-studio-20_1_1-jan-2019.css" crc="93354445" ref="fl-studio-20.1.1-jan-2019"/>
+    <file name="cockos-reaper.css" crc="93354445" ref="cockos-reaper"/>
+    <file name="tag-rename.css" crc="93354445" ref="tag-rename"/>
+    <file name="classik-studio-reverb-vst.css" crc="93354445" ref="classik-studio-reverb-vst"/>
+    <file name="cyberlink-waveeditor.css" crc="93354445" ref="cyberlink-waveeditor"/>
+    <file name="th-studio-trailer-elements-cinematic-sounds-pack-kontakt-library.css" crc="93354445" ref="th-studio-trailer-elements-cinematic-sounds-pack-kontakt-library"/>
+    <file name="fl-studio-12_5-signature-bundle---all-fl-studio-plugins.css" crc="93354445" ref="fl-studio-12.5-signature-bundle---all-fl-studio-plugins"/>
+    <file name="cytomic-the-glue-vst.css" crc="93354445" ref="cytomic-the-glue-vst"/>
+    <file name="noteburner-itunes-drm-audio-converter.css" crc="93354445" ref="noteburner-itunes-drm-audio-converter"/>
+    <file name="exhale-vocal-engine-vst-kontakt-library.css" crc="93354445" ref="exhale-vocal-engine-vst-kontakt-library"/>
+    <file name="audacity.css" crc="93354445" ref="audacity"/>
+    <file name="nomad-factory-magma-vst.css" crc="93354445" ref="nomad-factory-magma-vst"/>
+    <file name="soundtoys-v5-vst.css" crc="93354445" ref="soundtoys-v5-vst"/>
+    <file name="cool-edit-pro.css" crc="93354445" ref="cool-edit-pro"/>
+    <file name="motu-digital-performer-v10.css" crc="93354445" ref="motu-digital-performer-v10"/>
+    <file name="credland-audio-stereo-savage-vst.css" crc="93354445" ref="credland-audio-stereo-savage-vst"/>
+    <file name="cyberlink-audiodirector-ultra.css" crc="93354445" ref="cyberlink-audiodirector-ultra"/>
+    <file name="sonar-x3-producer-edition.css" crc="93354445" ref="sonar-x3-producer-edition"/>
+    <file name="spectrasonics-omnisphere-2-complete-pack.css" crc="93354445" ref="spectrasonics-omnisphere-2-complete-pack"/>
+    <file name="ethno-world-6-complete-vst.css" crc="93354445" ref="ethno-world-6-complete-vst"/>
+    <file name="nicky-romero-kickstart-vst.css" crc="93354445" ref="nicky-romero-kickstart-vst"/>
+    <file name="mixvibes-cross.css" crc="93354445" ref="mixvibes-cross"/>
+    <file name="black-octopus-mystical-indian-percussion-kontakt-library-vst.css" crc="93354445" ref="black-octopus-mystical-indian-percussion-kontakt-library-vst"/>
+    <file name="motu-daw.css" crc="93354445" ref="motu-daw"/>
+    <file name="reveal-sound-spire-vst-dmg.css" crc="93354445" ref="reveal-sound-spire-vst-dmg"/>
+    <file name="soundplant.css" crc="93354445" ref="soundplant"/>
+    <file name="sony-sound-forge-pro.css" crc="93354445" ref="sony-sound-forge-pro"/>
+    <file name="reveal-sound-spire.css" crc="93354445" ref="reveal-sound-spire"/>
+    <file name="miroslav-philharmonik-vst.css" crc="93354445" ref="miroslav-philharmonik-vst"/>
+    <file name="emagic-logic-audio-platinum.css" crc="93354445" ref="emagic-logic-audio-platinum"/>
+    <file name="blue-cat-audio-_-blue-cat_s-all-plug-ins-pack-2018-vst.css" crc="93354445" ref="blue-cat-audio-–-blue-cat’s-all-plug-ins-pack-2018-vst"/>
+    <file name="synapse-audio-dune-3-vst.css" crc="93354445" ref="synapse-audio-dune-3-vst"/>
+    <file name="adobe-audition.css" crc="93354445" ref="adobe-audition"/>
+    <file name="abbey-road-modern-drummer-kontakt-library.css" crc="93354445" ref="abbey-road-modern-drummer-kontakt-library"/>
+    <file name="808-studio-vst.css" crc="93354445" ref="808-studio-vst"/>
+    <file name="eiosis-aireq-premium-vst-plugin.css" crc="93354445" ref="eiosis-aireq-premium-vst-plugin"/>
+    <file name="808-bloodline-vst.css" crc="93354445" ref="808-bloodline-vst"/>
+    <file name="breakaway-audio-enhancer.css" crc="93354445" ref="breakaway-audio-enhancer"/>
+    <file name="empty-250-vst.css" crc="93354445" ref="empty-250-vst"/>
+    <file name="avs-audio-editor.css" crc="93354445" ref="avs-audio-editor"/>
+    <file name="arturia-_-pigments-vst.css" crc="93354445" ref="arturia-–-pigments-vst"/>
+    <file name="drumdrops-drums-bundles-kontakt-library.css" crc="93354445" ref="drumdrops-drums-bundles-kontakt-library"/>
+    <file name="8dio-edm-trap-kontakt-library.css" crc="93354445" ref="8dio-edm-trap-kontakt-library"/>
+    <file name="eiosis-e2deesser-vst.css" crc="93354445" ref="eiosis-e2deesser-vst"/>
+    <file name="midiculous.css" crc="93354445" ref="midiculous"/>
+    <file name="tone2-electra2.css" crc="93354445" ref="tone2-electra2"/>
+    <file name="native-instruments-discovery-series-middle-east-kontakt-library.css" crc="93354445" ref="native-instruments-discovery-series-middle-east-kontakt-library"/>
+    <file name="cakewalk-sonar-platinum-23-with-plugins---content.css" crc="93354445" ref="cakewalk-sonar-platinum-23-with-plugins---content"/>
+    <file name="audials-one.css" crc="93354445" ref="audials-one"/>
+    <file name="native-instruments-fx-vst-pack.css" crc="93354445" ref="native-instruments-fx-vst-pack"/>
+    <file name="tone2-icarus.css" crc="93354445" ref="tone2-icarus"/>
+    <file name="virtual-dj-pro-8---plugins.css" crc="93354445" ref="virtual-dj-pro-8---plugins"/>
+    <file name="acoustica-mixcraft-pro-studio.css" crc="93354445" ref="acoustica-mixcraft-pro-studio"/>
+    <file name="native-instruments-kontakt-5_7_3-vst.css" crc="93354445" ref="native-instruments-kontakt-5.7.3-vst"/>
+    <file name="ample-sound-_-ample-guitar-m-iii-3.css" crc="93354445" ref="ample-sound-–-ample-guitar-m-iii-3"/>
+    <file name="izotope-ozone-advanced-v7.css" crc="93354445" ref="izotope-ozone-advanced-v7"/>
+    <file name="midirunner-123tag.css" crc="93354445" ref="midirunner-123tag"/>
+    <file name="meldaproduction-_-maudioplugins-2019-vst.css" crc="93354445" ref="meldaproduction-–-maudioplugins-2019-vst"/>
+    <file name="drumagog-platinum-5---library.css" crc="93354445" ref="drumagog-platinum-5---library"/>
+    <file name="mercuriall-_-bundle-vst.css" crc="93354445" ref="mercuriall-–-bundle-vst"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:2c-audio-aether-vst:4front-truepianos-vst:8dio-edm-trap-kontakt-library:808-bloodline-vst:808-studio-vst:adobe-audition:audacity:audio4fun-av-voice-changer-diamond:auto-tune-evo:antares-auto-tune-evo:ableton-live-suite:audio-record-wizard:audials-one:acoustica-mixcraft-pro-studio:avs-audio-editor:antares-auto-tune:avid-protools:antares-avox-evo-vocal-vst-bundle:auto-tune-efx:audiothing-plugins-bundle-vst:air-music-tech-xpand2:apowersoft-streaming-audio-recorder:arturia-v-plugins-collection-vst:albino-3-vst:accusonus-era-bundle-pro-2:apple-mainstage:abbey-road-modern-drummer-kontakt-library:arturia-–-pigments-vst:ample-sound-–-ample-guitar-m-iii-3:bias-amp-2:bigasoft-audio-converter:black-octopus-mystical-indian-percussion-kontakt-library-vst:blue-cat-audio-–-blue-cat’s-all-plug-ins-pack-2018-vst:bornemark-broomstick-bass-vsti:breakaway-audio-enhancer:cableguys-halftime-vst:cakewalk-sonar-platinum-23-with-plugins---content:cakewalk-sonitus-fx-plugin-suite-vst:cantabile-performer-vst:celemony-melodyne-editor:celemony-melodyne-editor-setup:chris-hein-solo-violin-kontakt-library:chromaphone-vst:classik-studio-reverb-vst:cockos-reaper:cool-edit-pro:credland-audio-stereo-savage-vst:cyberlink-audiodirector-ultra:cyberlink-waveeditor:cytomic-the-glue-vst:d16-all-plugins-total-bundle-vst:dmg-audio-all-vst-plugin-bundle:dear-reality-dearvr-pro-vst:diamond-cut-dc-live-forensics-audio-laboratory:dolby-atmos:dorico:virtual-dj-pro-8---plugins:drumagog-platinum-5---library:drumdrops-drums-bundles-kontakt-library:empty-250-vst:eiosis-aireq-premium-vst-plugin:eiosis-e2deesser-vst:emagic-logic-audio-platinum:ethno-world-6-complete-vst:exhale-vocal-engine-vst-kontakt-library:fl-studio-12.5-signature-bundle---all-fl-studio-plugins:fl-studio-20.1.1-jan-2019:fl-studio-producer-edition:fl-studio-xxl-producer-edition-v8.0.2---autotune-v5:fab-filters-plugins-pack:fabfilter-pro:fabfilter-total-bundle-vst:filmstro-pro:future-bass-midi-wav-presets-pack:fxsound-enhancer-premium:gsi-vb3-ii-vst:gilisoft-audio-recorder-pro:glitch-2-vst:harmony-engine-vst:hypersonic-2-vst:idoser---all-doses:ik-multimedia-amplitube-4-vst:ik-multimedia-syntronik-vst:ik-multimedia-t-racks-5-vst:izotope-stutter:ichiro-toda-–-synth1-plugin:ignite-heat-up-v2-vst---update:image-line-fl-studio-producer-edition-12.3-portable:impact-hits-kontakt-library:internet-ability-pro:jam-origin-midi-guitar-2-vst:korg-legacy-collection-special-bundle:korg-legacy-collection-vst-bundle:keyscape-13-kontakt-library:luxonix-ravity-vst-bundle:lacrimosa-epic-female-choir-kontakt-library:lakeside-audio-isola-fx-2:letasoft-sound-booster:lexicon-reverb-bundle-vst:line6-helix-native-vst:liquidsonics-reverberate-2-vst:logic-pro-x-dmg:longcat-audio-h3d-vst-plugin:loopmasters-bass-master-vst-plugin:lounge-lizard-ep-vst:magix-acid-pro-8:magix-audio-and-music-lab-2016-premium:magix-sound-forge-audio-studio-2019:magix-samplitude-music-studio-2017:magix-sound-forge-audio-studio-10:magix-sound-forge-pro-11:midiculous:motu-daw:motu-digital-performer-v10:mp3-resizer:magic-ab-vst:mastering-the-mix-levels:mathew-lane-–-drms-spatial-processor-vst:meldaproduction-–-maudioplugins-2019-vst:mercuriall-–-bundle-vst:midirunner-123tag:miroslav-philharmonik-vst:mixvibes-cross:mixed-in-key:mixvibes-remixlive:modo-bass:morphvox-pro:mp3tag-2019:musiclab-realeight:nch-express-dictate:nch-mixpad-audio-mixer:native-instruments-absynth-vsti:native-instruments-discovery-series-india-kontakt-library:native-instruments-discovery-series-middle-east-kontakt-library:native-instruments-fx-vst-pack:native-instruments-kontakt-5.7.3-vst:native-instruments-kontakt-6:native-instruments-session-guitarist:native-instruments-session-horns-kontakt-library:naturalreader-professional:neuratron-audio-score-ultimate:neuratron-audioscore-ultimate:neuratron-photoscore---notateme-ultimate-2018:nextup-textaloud-2019:nicky-romero-kickstart-vst:nomad-factory-magma-vst:noteburner-itunes-drm-audio-converter:oasys-software-suite-14.1:output-analog-strings-kontakt-library:overloud-mark-studio-vst:overloud-th3-vst:pdftomusic-pro:pspaudioware-vst-bundle:pianoteq---addons---presets:pianoteq-stage-6-vst:plogue-aria-engine:plogue-plugins-pack:polyverse-infected-mushroom-manipulator:presonus-studio-one:presonus-notion-6:presonus-studio-one-professional-4:qps-qimera-1.6.3:rc-20-retro-color:rc-20-retro-color-vst:radioboss-advanced:razer-surround-pro:refx-nexus-house-vol-1-expansion-pack:refx-nexus-v.2.2---all-official-banks:refx-nexus-v.2.2-free:regroover-pro-vst:repeater-vst:reveal-sound-spire:reveal-sound-spire-vst-dmg:sonar-x3-producer-edition:sony-sound-forge-pro:sample-logic-xosphere-kontact:sample-logic-–-xosphere-2-kontakt-library:samplehero-evoque-vocal-synth-kontakt-library:sampletank-vst:sausage-fattener-vst-plugin:scaler-vst:scarbee-vintage-keys-kontakt-library:scott-storch-vst:serato-sample-vst-plugin:session-guitarist-electric-sunburst-kontakt-vst-library:shevannai-the-voices-of-elves-kontakt-library:sidify-spotify-music-converter:slate-digital-vmr-complete-bundle-vst:slate-digital-verbsuite-classics-plugin:slate-digital-virtual-buss-compressors-vst:softplug-adventus-vst:solid-state-logic-duende-native-vst:sonalksis-all-plugins-bundle-vst:sonarworks-reference-4-studio:sonic-academy-kick-2-vst:sonik-synth-2-vsti:sony-spectralayers-pro:sound-normalizer:soundtoys-v5-vst:soundplant:spectrasonics-omnisphere-2-complete-pack:spectrasonics-stylus-rmx-vsti:spectrasonics-trilian-vsti:spinnin-records-base-vst:spitfire-audio-labs-kontakt-libraries:steven-slate-drums-ssd4-sampler---library-platinum:sugarbytes-effectrix:superior-drummer-3:swar-systems-swarplugin:sylenth1-preset-banks-collection:symphony-essentials-percussion-kontakt-library:synapse-audio-dune-vsti:synapse-audio-dune-3-vst:synchro-arts-revoice-pro:synthmaster-one-vst:tal-u-no-lx-vst:th-studio-trailer-elements-cinematic-sounds-pack-kontakt-library:tag-rename:tone2-electra2:tone2-gladiator-vsti:tone2-icarus:tone2-–-electrax:toontrack-ezmix-2-with-expansion-pack:toontrack-ezkeys-complete-vsti:toraverb-vst:tracktion-5:tracktion-waveform-9-vst:tunefab-spotify-music-converter:vsl-horizon-series-saxophones-i-kontakt-library:valhalla-plate--room--vintage-verb-vst:vengeance-avenger:vengeance-electroshock-vol-1-and-2:vintage-organs-kontakt-library:virtual-audio-cable:virtual-dj-studio-2015:vox-engine-2-for-kontakt:voxal-voice-changer:widi-music-recognition-system-pro:wavepad-sound-editor-master-edition:waves-complete-plugins-2018-v10:wondershare-streaming-audio-recorder:xils-vocoder-5000-vsts:xfer-records-cthulhu:xfer-records-lfotool-vst:xfer-records-serum-serumfx-cthulhu-lfotool-ott:xfer-serum-1.20.b5:yamaha-vocaloid-v4:yamaha-vocaloid-5.0.3---libraries-standalone-vsti:yogen-vocal-remover:youlean-loudness-meter-pro-vst-plugin:zynaptiq-–-morph-vst:izotope-insight-vst:izotope-mobius-filter-vst:izotope-nectar-3-plugin:izotope-ozone-6-advanced:izotope-ozone-advanced-8-vst:izotope-ozone-advanced-v7:izotope-rx-6-audio-editor-advanced:izotope-rx-7-audio-editor-advanced-vst:izotope-rx-loudness-control:izotope-stutter-edit:izotope-trash-2-vst:izotope-vocal-doubler-vst:izotope-vocalsynth:izotope-vocalsynth-v2:jbridge:n-track-studio-ex:tone2-saurus2:u-he-hive-vsti:zplane-elastique-pitch-vst"/>
+    <file name="museutils.js" crc="3803043152" ref="index:2c-audio-aether-vst:4front-truepianos-vst:8dio-edm-trap-kontakt-library:808-bloodline-vst:808-studio-vst:adobe-audition:audacity:audio4fun-av-voice-changer-diamond:auto-tune-evo:antares-auto-tune-evo:ableton-live-suite:audio-record-wizard:audials-one:acoustica-mixcraft-pro-studio:avs-audio-editor:antares-auto-tune:avid-protools:antares-avox-evo-vocal-vst-bundle:auto-tune-efx:audiothing-plugins-bundle-vst:air-music-tech-xpand2:apowersoft-streaming-audio-recorder:arturia-v-plugins-collection-vst:albino-3-vst:accusonus-era-bundle-pro-2:apple-mainstage:abbey-road-modern-drummer-kontakt-library:arturia-–-pigments-vst:ample-sound-–-ample-guitar-m-iii-3:bias-amp-2:bigasoft-audio-converter:black-octopus-mystical-indian-percussion-kontakt-library-vst:blue-cat-audio-–-blue-cat’s-all-plug-ins-pack-2018-vst:bornemark-broomstick-bass-vsti:breakaway-audio-enhancer:cableguys-halftime-vst:cakewalk-sonar-platinum-23-with-plugins---content:cakewalk-sonitus-fx-plugin-suite-vst:cantabile-performer-vst:celemony-melodyne-editor:celemony-melodyne-editor-setup:chris-hein-solo-violin-kontakt-library:chromaphone-vst:classik-studio-reverb-vst:cockos-reaper:cool-edit-pro:credland-audio-stereo-savage-vst:cyberlink-audiodirector-ultra:cyberlink-waveeditor:cytomic-the-glue-vst:d16-all-plugins-total-bundle-vst:dmg-audio-all-vst-plugin-bundle:dear-reality-dearvr-pro-vst:diamond-cut-dc-live-forensics-audio-laboratory:dolby-atmos:dorico:virtual-dj-pro-8---plugins:drumagog-platinum-5---library:drumdrops-drums-bundles-kontakt-library:empty-250-vst:eiosis-aireq-premium-vst-plugin:eiosis-e2deesser-vst:emagic-logic-audio-platinum:ethno-world-6-complete-vst:exhale-vocal-engine-vst-kontakt-library:fl-studio-12.5-signature-bundle---all-fl-studio-plugins:fl-studio-20.1.1-jan-2019:fl-studio-producer-edition:fl-studio-xxl-producer-edition-v8.0.2---autotune-v5:fab-filters-plugins-pack:fabfilter-pro:fabfilter-total-bundle-vst:filmstro-pro:future-bass-midi-wav-presets-pack:fxsound-enhancer-premium:gsi-vb3-ii-vst:gilisoft-audio-recorder-pro:glitch-2-vst:harmony-engine-vst:hypersonic-2-vst:idoser---all-doses:ik-multimedia-amplitube-4-vst:ik-multimedia-syntronik-vst:ik-multimedia-t-racks-5-vst:izotope-stutter:ichiro-toda-–-synth1-plugin:ignite-heat-up-v2-vst---update:image-line-fl-studio-producer-edition-12.3-portable:impact-hits-kontakt-library:internet-ability-pro:jam-origin-midi-guitar-2-vst:korg-legacy-collection-special-bundle:korg-legacy-collection-vst-bundle:keyscape-13-kontakt-library:luxonix-ravity-vst-bundle:lacrimosa-epic-female-choir-kontakt-library:lakeside-audio-isola-fx-2:letasoft-sound-booster:lexicon-reverb-bundle-vst:line6-helix-native-vst:liquidsonics-reverberate-2-vst:logic-pro-x-dmg:longcat-audio-h3d-vst-plugin:loopmasters-bass-master-vst-plugin:lounge-lizard-ep-vst:magix-acid-pro-8:magix-audio-and-music-lab-2016-premium:magix-sound-forge-audio-studio-2019:magix-samplitude-music-studio-2017:magix-sound-forge-audio-studio-10:magix-sound-forge-pro-11:midiculous:motu-daw:motu-digital-performer-v10:mp3-resizer:magic-ab-vst:mastering-the-mix-levels:mathew-lane-–-drms-spatial-processor-vst:meldaproduction-–-maudioplugins-2019-vst:mercuriall-–-bundle-vst:midirunner-123tag:miroslav-philharmonik-vst:mixvibes-cross:mixed-in-key:mixvibes-remixlive:modo-bass:morphvox-pro:mp3tag-2019:musiclab-realeight:nch-express-dictate:nch-mixpad-audio-mixer:native-instruments-absynth-vsti:native-instruments-discovery-series-india-kontakt-library:native-instruments-discovery-series-middle-east-kontakt-library:native-instruments-fx-vst-pack:native-instruments-kontakt-5.7.3-vst:native-instruments-kontakt-6:native-instruments-session-guitarist:native-instruments-session-horns-kontakt-library:naturalreader-professional:neuratron-audio-score-ultimate:neuratron-audioscore-ultimate:neuratron-photoscore---notateme-ultimate-2018:nextup-textaloud-2019:nicky-romero-kickstart-vst:nomad-factory-magma-vst:noteburner-itunes-drm-audio-converter:oasys-software-suite-14.1:output-analog-strings-kontakt-library:overloud-mark-studio-vst:overloud-th3-vst:pdftomusic-pro:pspaudioware-vst-bundle:pianoteq---addons---presets:pianoteq-stage-6-vst:plogue-aria-engine:plogue-plugins-pack:polyverse-infected-mushroom-manipulator:presonus-studio-one:presonus-notion-6:presonus-studio-one-professional-4:qps-qimera-1.6.3:rc-20-retro-color:rc-20-retro-color-vst:radioboss-advanced:razer-surround-pro:refx-nexus-house-vol-1-expansion-pack:refx-nexus-v.2.2---all-official-banks:refx-nexus-v.2.2-free:regroover-pro-vst:repeater-vst:reveal-sound-spire:reveal-sound-spire-vst-dmg:sonar-x3-producer-edition:sony-sound-forge-pro:sample-logic-xosphere-kontact:sample-logic-–-xosphere-2-kontakt-library:samplehero-evoque-vocal-synth-kontakt-library:sampletank-vst:sausage-fattener-vst-plugin:scaler-vst:scarbee-vintage-keys-kontakt-library:scott-storch-vst:serato-sample-vst-plugin:session-guitarist-electric-sunburst-kontakt-vst-library:shevannai-the-voices-of-elves-kontakt-library:sidify-spotify-music-converter:slate-digital-vmr-complete-bundle-vst:slate-digital-verbsuite-classics-plugin:slate-digital-virtual-buss-compressors-vst:softplug-adventus-vst:solid-state-logic-duende-native-vst:sonalksis-all-plugins-bundle-vst:sonarworks-reference-4-studio:sonic-academy-kick-2-vst:sonik-synth-2-vsti:sony-spectralayers-pro:sound-normalizer:soundtoys-v5-vst:soundplant:spectrasonics-omnisphere-2-complete-pack:spectrasonics-stylus-rmx-vsti:spectrasonics-trilian-vsti:spinnin-records-base-vst:spitfire-audio-labs-kontakt-libraries:steven-slate-drums-ssd4-sampler---library-platinum:sugarbytes-effectrix:superior-drummer-3:swar-systems-swarplugin:sylenth1-preset-banks-collection:symphony-essentials-percussion-kontakt-library:synapse-audio-dune-vsti:synapse-audio-dune-3-vst:synchro-arts-revoice-pro:synthmaster-one-vst:tal-u-no-lx-vst:th-studio-trailer-elements-cinematic-sounds-pack-kontakt-library:tag-rename:tone2-electra2:tone2-gladiator-vsti:tone2-icarus:tone2-–-electrax:toontrack-ezmix-2-with-expansion-pack:toontrack-ezkeys-complete-vsti:toraverb-vst:tracktion-5:tracktion-waveform-9-vst:tunefab-spotify-music-converter:vsl-horizon-series-saxophones-i-kontakt-library:valhalla-plate--room--vintage-verb-vst:vengeance-avenger:vengeance-electroshock-vol-1-and-2:vintage-organs-kontakt-library:virtual-audio-cable:virtual-dj-studio-2015:vox-engine-2-for-kontakt:voxal-voice-changer:widi-music-recognition-system-pro:wavepad-sound-editor-master-edition:waves-complete-plugins-2018-v10:wondershare-streaming-audio-recorder:xils-vocoder-5000-vsts:xfer-records-cthulhu:xfer-records-lfotool-vst:xfer-records-serum-serumfx-cthulhu-lfotool-ott:xfer-serum-1.20.b5:yamaha-vocaloid-v4:yamaha-vocaloid-5.0.3---libraries-standalone-vsti:yogen-vocal-remover:youlean-loudness-meter-pro-vst-plugin:zynaptiq-–-morph-vst:izotope-insight-vst:izotope-mobius-filter-vst:izotope-nectar-3-plugin:izotope-ozone-6-advanced:izotope-ozone-advanced-8-vst:izotope-ozone-advanced-v7:izotope-rx-6-audio-editor-advanced:izotope-rx-7-audio-editor-advanced-vst:izotope-rx-loudness-control:izotope-stutter-edit:izotope-trash-2-vst:izotope-vocal-doubler-vst:izotope-vocalsynth:izotope-vocalsynth-v2:jbridge:n-track-studio-ex:tone2-saurus2:u-he-hive-vsti:zplane-elastique-pitch-vst"/>
+    <file name="whatinput.js" crc="86476730" ref="index:2c-audio-aether-vst:4front-truepianos-vst:8dio-edm-trap-kontakt-library:808-bloodline-vst:808-studio-vst:adobe-audition:audacity:audio4fun-av-voice-changer-diamond:auto-tune-evo:antares-auto-tune-evo:ableton-live-suite:audio-record-wizard:audials-one:acoustica-mixcraft-pro-studio:avs-audio-editor:antares-auto-tune:avid-protools:antares-avox-evo-vocal-vst-bundle:auto-tune-efx:audiothing-plugins-bundle-vst:air-music-tech-xpand2:apowersoft-streaming-audio-recorder:arturia-v-plugins-collection-vst:albino-3-vst:accusonus-era-bundle-pro-2:apple-mainstage:abbey-road-modern-drummer-kontakt-library:arturia-–-pigments-vst:ample-sound-–-ample-guitar-m-iii-3:bias-amp-2:bigasoft-audio-converter:black-octopus-mystical-indian-percussion-kontakt-library-vst:blue-cat-audio-–-blue-cat’s-all-plug-ins-pack-2018-vst:bornemark-broomstick-bass-vsti:breakaway-audio-enhancer:cableguys-halftime-vst:cakewalk-sonar-platinum-23-with-plugins---content:cakewalk-sonitus-fx-plugin-suite-vst:cantabile-performer-vst:celemony-melodyne-editor:celemony-melodyne-editor-setup:chris-hein-solo-violin-kontakt-library:chromaphone-vst:classik-studio-reverb-vst:cockos-reaper:cool-edit-pro:credland-audio-stereo-savage-vst:cyberlink-audiodirector-ultra:cyberlink-waveeditor:cytomic-the-glue-vst:d16-all-plugins-total-bundle-vst:dmg-audio-all-vst-plugin-bundle:dear-reality-dearvr-pro-vst:diamond-cut-dc-live-forensics-audio-laboratory:dolby-atmos:dorico:virtual-dj-pro-8---plugins:drumagog-platinum-5---library:drumdrops-drums-bundles-kontakt-library:empty-250-vst:eiosis-aireq-premium-vst-plugin:eiosis-e2deesser-vst:emagic-logic-audio-platinum:ethno-world-6-complete-vst:exhale-vocal-engine-vst-kontakt-library:fl-studio-12.5-signature-bundle---all-fl-studio-plugins:fl-studio-20.1.1-jan-2019:fl-studio-producer-edition:fl-studio-xxl-producer-edition-v8.0.2---autotune-v5:fab-filters-plugins-pack:fabfilter-pro:fabfilter-total-bundle-vst:filmstro-pro:future-bass-midi-wav-presets-pack:fxsound-enhancer-premium:gsi-vb3-ii-vst:gilisoft-audio-recorder-pro:glitch-2-vst:harmony-engine-vst:hypersonic-2-vst:idoser---all-doses:ik-multimedia-amplitube-4-vst:ik-multimedia-syntronik-vst:ik-multimedia-t-racks-5-vst:izotope-stutter:ichiro-toda-–-synth1-plugin:ignite-heat-up-v2-vst---update:image-line-fl-studio-producer-edition-12.3-portable:impact-hits-kontakt-library:internet-ability-pro:jam-origin-midi-guitar-2-vst:korg-legacy-collection-special-bundle:korg-legacy-collection-vst-bundle:keyscape-13-kontakt-library:luxonix-ravity-vst-bundle:lacrimosa-epic-female-choir-kontakt-library:lakeside-audio-isola-fx-2:letasoft-sound-booster:lexicon-reverb-bundle-vst:line6-helix-native-vst:liquidsonics-reverberate-2-vst:logic-pro-x-dmg:longcat-audio-h3d-vst-plugin:loopmasters-bass-master-vst-plugin:lounge-lizard-ep-vst:magix-acid-pro-8:magix-audio-and-music-lab-2016-premium:magix-sound-forge-audio-studio-2019:magix-samplitude-music-studio-2017:magix-sound-forge-audio-studio-10:magix-sound-forge-pro-11:midiculous:motu-daw:motu-digital-performer-v10:mp3-resizer:magic-ab-vst:mastering-the-mix-levels:mathew-lane-–-drms-spatial-processor-vst:meldaproduction-–-maudioplugins-2019-vst:mercuriall-–-bundle-vst:midirunner-123tag:miroslav-philharmonik-vst:mixvibes-cross:mixed-in-key:mixvibes-remixlive:modo-bass:morphvox-pro:mp3tag-2019:musiclab-realeight:nch-express-dictate:nch-mixpad-audio-mixer:native-instruments-absynth-vsti:native-instruments-discovery-series-india-kontakt-library:native-instruments-discovery-series-middle-east-kontakt-library:native-instruments-fx-vst-pack:native-instruments-kontakt-5.7.3-vst:native-instruments-kontakt-6:native-instruments-session-guitarist:native-instruments-session-horns-kontakt-library:naturalreader-professional:neuratron-audio-score-ultimate:neuratron-audioscore-ultimate:neuratron-photoscore---notateme-ultimate-2018:nextup-textaloud-2019:nicky-romero-kickstart-vst:nomad-factory-magma-vst:noteburner-itunes-drm-audio-converter:oasys-software-suite-14.1:output-analog-strings-kontakt-library:overloud-mark-studio-vst:overloud-th3-vst:pdftomusic-pro:pspaudioware-vst-bundle:pianoteq---addons---presets:pianoteq-stage-6-vst:plogue-aria-engine:plogue-plugins-pack:polyverse-infected-mushroom-manipulator:presonus-studio-one:presonus-notion-6:presonus-studio-one-professional-4:qps-qimera-1.6.3:rc-20-retro-color:rc-20-retro-color-vst:radioboss-advanced:razer-surround-pro:refx-nexus-house-vol-1-expansion-pack:refx-nexus-v.2.2---all-official-banks:refx-nexus-v.2.2-free:regroover-pro-vst:repeater-vst:reveal-sound-spire:reveal-sound-spire-vst-dmg:sonar-x3-producer-edition:sony-sound-forge-pro:sample-logic-xosphere-kontact:sample-logic-–-xosphere-2-kontakt-library:samplehero-evoque-vocal-synth-kontakt-library:sampletank-vst:sausage-fattener-vst-plugin:scaler-vst:scarbee-vintage-keys-kontakt-library:scott-storch-vst:serato-sample-vst-plugin:session-guitarist-electric-sunburst-kontakt-vst-library:shevannai-the-voices-of-elves-kontakt-library:sidify-spotify-music-converter:slate-digital-vmr-complete-bundle-vst:slate-digital-verbsuite-classics-plugin:slate-digital-virtual-buss-compressors-vst:softplug-adventus-vst:solid-state-logic-duende-native-vst:sonalksis-all-plugins-bundle-vst:sonarworks-reference-4-studio:sonic-academy-kick-2-vst:sonik-synth-2-vsti:sony-spectralayers-pro:sound-normalizer:soundtoys-v5-vst:soundplant:spectrasonics-omnisphere-2-complete-pack:spectrasonics-stylus-rmx-vsti:spectrasonics-trilian-vsti:spinnin-records-base-vst:spitfire-audio-labs-kontakt-libraries:steven-slate-drums-ssd4-sampler---library-platinum:sugarbytes-effectrix:superior-drummer-3:swar-systems-swarplugin:sylenth1-preset-banks-collection:symphony-essentials-percussion-kontakt-library:synapse-audio-dune-vsti:synapse-audio-dune-3-vst:synchro-arts-revoice-pro:synthmaster-one-vst:tal-u-no-lx-vst:th-studio-trailer-elements-cinematic-sounds-pack-kontakt-library:tag-rename:tone2-electra2:tone2-gladiator-vsti:tone2-icarus:tone2-–-electrax:toontrack-ezmix-2-with-expansion-pack:toontrack-ezkeys-complete-vsti:toraverb-vst:tracktion-5:tracktion-waveform-9-vst:tunefab-spotify-music-converter:vsl-horizon-series-saxophones-i-kontakt-library:valhalla-plate--room--vintage-verb-vst:vengeance-avenger:vengeance-electroshock-vol-1-and-2:vintage-organs-kontakt-library:virtual-audio-cable:virtual-dj-studio-2015:vox-engine-2-for-kontakt:voxal-voice-changer:widi-music-recognition-system-pro:wavepad-sound-editor-master-edition:waves-complete-plugins-2018-v10:wondershare-streaming-audio-recorder:xils-vocoder-5000-vsts:xfer-records-cthulhu:xfer-records-lfotool-vst:xfer-records-serum-serumfx-cthulhu-lfotool-ott:xfer-serum-1.20.b5:yamaha-vocaloid-v4:yamaha-vocaloid-5.0.3---libraries-standalone-vsti:yogen-vocal-remover:youlean-loudness-meter-pro-vst-plugin:zynaptiq-–-morph-vst:izotope-insight-vst:izotope-mobius-filter-vst:izotope-nectar-3-plugin:izotope-ozone-6-advanced:izotope-ozone-advanced-8-vst:izotope-ozone-advanced-v7:izotope-rx-6-audio-editor-advanced:izotope-rx-7-audio-editor-advanced-vst:izotope-rx-loudness-control:izotope-stutter-edit:izotope-trash-2-vst:izotope-vocal-doubler-vst:izotope-vocalsynth:izotope-vocalsynth-v2:jbridge:n-track-studio-ex:tone2-saurus2:u-he-hive-vsti:zplane-elastique-pitch-vst"/>
+    <file name="museconfig.js" crc="380897831" ref="index:2c-audio-aether-vst:4front-truepianos-vst:8dio-edm-trap-kontakt-library:808-bloodline-vst:808-studio-vst:adobe-audition:audacity:audio4fun-av-voice-changer-diamond:auto-tune-evo:antares-auto-tune-evo:ableton-live-suite:audio-record-wizard:audials-one:acoustica-mixcraft-pro-studio:avs-audio-editor:antares-auto-tune:avid-protools:antares-avox-evo-vocal-vst-bundle:auto-tune-efx:audiothing-plugins-bundle-vst:air-music-tech-xpand2:apowersoft-streaming-audio-recorder:arturia-v-plugins-collection-vst:albino-3-vst:accusonus-era-bundle-pro-2:apple-mainstage:abbey-road-modern-drummer-kontakt-library:arturia-–-pigments-vst:ample-sound-–-ample-guitar-m-iii-3:bias-amp-2:bigasoft-audio-converter:black-octopus-mystical-indian-percussion-kontakt-library-vst:blue-cat-audio-–-blue-cat’s-all-plug-ins-pack-2018-vst:bornemark-broomstick-bass-vsti:breakaway-audio-enhancer:cableguys-halftime-vst:cakewalk-sonar-platinum-23-with-plugins---content:cakewalk-sonitus-fx-plugin-suite-vst:cantabile-performer-vst:celemony-melodyne-editor:celemony-melodyne-editor-setup:chris-hein-solo-violin-kontakt-library:chromaphone-vst:classik-studio-reverb-vst:cockos-reaper:cool-edit-pro:credland-audio-stereo-savage-vst:cyberlink-audiodirector-ultra:cyberlink-waveeditor:cytomic-the-glue-vst:d16-all-plugins-total-bundle-vst:dmg-audio-all-vst-plugin-bundle:dear-reality-dearvr-pro-vst:diamond-cut-dc-live-forensics-audio-laboratory:dolby-atmos:dorico:virtual-dj-pro-8---plugins:drumagog-platinum-5---library:drumdrops-drums-bundles-kontakt-library:empty-250-vst:eiosis-aireq-premium-vst-plugin:eiosis-e2deesser-vst:emagic-logic-audio-platinum:ethno-world-6-complete-vst:exhale-vocal-engine-vst-kontakt-library:fl-studio-12.5-signature-bundle---all-fl-studio-plugins:fl-studio-20.1.1-jan-2019:fl-studio-producer-edition:fl-studio-xxl-producer-edition-v8.0.2---autotune-v5:fab-filters-plugins-pack:fabfilter-pro:fabfilter-total-bundle-vst:filmstro-pro:future-bass-midi-wav-presets-pack:fxsound-enhancer-premium:gsi-vb3-ii-vst:gilisoft-audio-recorder-pro:glitch-2-vst:harmony-engine-vst:hypersonic-2-vst:idoser---all-doses:ik-multimedia-amplitube-4-vst:ik-multimedia-syntronik-vst:ik-multimedia-t-racks-5-vst:izotope-stutter:ichiro-toda-–-synth1-plugin:ignite-heat-up-v2-vst---update:image-line-fl-studio-producer-edition-12.3-portable:impact-hits-kontakt-library:internet-ability-pro:jam-origin-midi-guitar-2-vst:korg-legacy-collection-special-bundle:korg-legacy-collection-vst-bundle:keyscape-13-kontakt-library:luxonix-ravity-vst-bundle:lacrimosa-epic-female-choir-kontakt-library:lakeside-audio-isola-fx-2:letasoft-sound-booster:lexicon-reverb-bundle-vst:line6-helix-native-vst:liquidsonics-reverberate-2-vst:logic-pro-x-dmg:longcat-audio-h3d-vst-plugin:loopmasters-bass-master-vst-plugin:lounge-lizard-ep-vst:magix-acid-pro-8:magix-audio-and-music-lab-2016-premium:magix-sound-forge-audio-studio-2019:magix-samplitude-music-studio-2017:magix-sound-forge-audio-studio-10:magix-sound-forge-pro-11:midiculous:motu-daw:motu-digital-performer-v10:mp3-resizer:magic-ab-vst:mastering-the-mix-levels:mathew-lane-–-drms-spatial-processor-vst:meldaproduction-–-maudioplugins-2019-vst:mercuriall-–-bundle-vst:midirunner-123tag:miroslav-philharmonik-vst:mixvibes-cross:mixed-in-key:mixvibes-remixlive:modo-bass:morphvox-pro:mp3tag-2019:musiclab-realeight:nch-express-dictate:nch-mixpad-audio-mixer:native-instruments-absynth-vsti:native-instruments-discovery-series-india-kontakt-library:native-instruments-discovery-series-middle-east-kontakt-library:native-instruments-fx-vst-pack:native-instruments-kontakt-5.7.3-vst:native-instruments-kontakt-6:native-instruments-session-guitarist:native-instruments-session-horns-kontakt-library:naturalreader-professional:neuratron-audio-score-ultimate:neuratron-audioscore-ultimate:neuratron-photoscore---notateme-ultimate-2018:nextup-textaloud-2019:nicky-romero-kickstart-vst:nomad-factory-magma-vst:noteburner-itunes-drm-audio-converter:oasys-software-suite-14.1:output-analog-strings-kontakt-library:overloud-mark-studio-vst:overloud-th3-vst:pdftomusic-pro:pspaudioware-vst-bundle:pianoteq---addons---presets:pianoteq-stage-6-vst:plogue-aria-engine:plogue-plugins-pack:polyverse-infected-mushroom-manipulator:presonus-studio-one:presonus-notion-6:presonus-studio-one-professional-4:qps-qimera-1.6.3:rc-20-retro-color:rc-20-retro-color-vst:radioboss-advanced:razer-surround-pro:refx-nexus-house-vol-1-expansion-pack:refx-nexus-v.2.2---all-official-banks:refx-nexus-v.2.2-free:regroover-pro-vst:repeater-vst:reveal-sound-spire:reveal-sound-spire-vst-dmg:sonar-x3-producer-edition:sony-sound-forge-pro:sample-logic-xosphere-kontact:sample-logic-–-xosphere-2-kontakt-library:samplehero-evoque-vocal-synth-kontakt-library:sampletank-vst:sausage-fattener-vst-plugin:scaler-vst:scarbee-vintage-keys-kontakt-library:scott-storch-vst:serato-sample-vst-plugin:session-guitarist-electric-sunburst-kontakt-vst-library:shevannai-the-voices-of-elves-kontakt-library:sidify-spotify-music-converter:slate-digital-vmr-complete-bundle-vst:slate-digital-verbsuite-classics-plugin:slate-digital-virtual-buss-compressors-vst:softplug-adventus-vst:solid-state-logic-duende-native-vst:sonalksis-all-plugins-bundle-vst:sonarworks-reference-4-studio:sonic-academy-kick-2-vst:sonik-synth-2-vsti:sony-spectralayers-pro:sound-normalizer:soundtoys-v5-vst:soundplant:spectrasonics-omnisphere-2-complete-pack:spectrasonics-stylus-rmx-vsti:spectrasonics-trilian-vsti:spinnin-records-base-vst:spitfire-audio-labs-kontakt-libraries:steven-slate-drums-ssd4-sampler---library-platinum:sugarbytes-effectrix:superior-drummer-3:swar-systems-swarplugin:sylenth1-preset-banks-collection:symphony-essentials-percussion-kontakt-library:synapse-audio-dune-vsti:synapse-audio-dune-3-vst:synchro-arts-revoice-pro:synthmaster-one-vst:tal-u-no-lx-vst:th-studio-trailer-elements-cinematic-sounds-pack-kontakt-library:tag-rename:tone2-electra2:tone2-gladiator-vsti:tone2-icarus:tone2-–-electrax:toontrack-ezmix-2-with-expansion-pack:toontrack-ezkeys-complete-vsti:toraverb-vst:tracktion-5:tracktion-waveform-9-vst:tunefab-spotify-music-converter:vsl-horizon-series-saxophones-i-kontakt-library:valhalla-plate--room--vintage-verb-vst:vengeance-avenger:vengeance-electroshock-vol-1-and-2:vintage-organs-kontakt-library:virtual-audio-cable:virtual-dj-studio-2015:vox-engine-2-for-kontakt:voxal-voice-changer:widi-music-recognition-system-pro:wavepad-sound-editor-master-edition:waves-complete-plugins-2018-v10:wondershare-streaming-audio-recorder:xils-vocoder-5000-vsts:xfer-records-cthulhu:xfer-records-lfotool-vst:xfer-records-serum-serumfx-cthulhu-lfotool-ott:xfer-serum-1.20.b5:yamaha-vocaloid-v4:yamaha-vocaloid-5.0.3---libraries-standalone-vsti:yogen-vocal-remover:youlean-loudness-meter-pro-vst-plugin:zynaptiq-–-morph-vst:izotope-insight-vst:izotope-mobius-filter-vst:izotope-nectar-3-plugin:izotope-ozone-6-advanced:izotope-ozone-advanced-8-vst:izotope-ozone-advanced-v7:izotope-rx-6-audio-editor-advanced:izotope-rx-7-audio-editor-advanced-vst:izotope-rx-loudness-control:izotope-stutter-edit:izotope-trash-2-vst:izotope-vocal-doubler-vst:izotope-vocalsynth:izotope-vocalsynth-v2:jbridge:n-track-studio-ex:tone2-saurus2:u-he-hive-vsti:zplane-elastique-pitch-vst"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:2c-audio-aether-vst:4front-truepianos-vst:8dio-edm-trap-kontakt-library:808-bloodline-vst:808-studio-vst:adobe-audition:audacity:audio4fun-av-voice-changer-diamond:auto-tune-evo:antares-auto-tune-evo:ableton-live-suite:audio-record-wizard:audials-one:acoustica-mixcraft-pro-studio:avs-audio-editor:antares-auto-tune:avid-protools:antares-avox-evo-vocal-vst-bundle:auto-tune-efx:audiothing-plugins-bundle-vst:air-music-tech-xpand2:apowersoft-streaming-audio-recorder:arturia-v-plugins-collection-vst:albino-3-vst:accusonus-era-bundle-pro-2:apple-mainstage:abbey-road-modern-drummer-kontakt-library:arturia-–-pigments-vst:ample-sound-–-ample-guitar-m-iii-3:bias-amp-2:bigasoft-audio-converter:black-octopus-mystical-indian-percussion-kontakt-library-vst:blue-cat-audio-–-blue-cat’s-all-plug-ins-pack-2018-vst:bornemark-broomstick-bass-vsti:breakaway-audio-enhancer:cableguys-halftime-vst:cakewalk-sonar-platinum-23-with-plugins---content:cakewalk-sonitus-fx-plugin-suite-vst:cantabile-performer-vst:celemony-melodyne-editor:celemony-melodyne-editor-setup:chris-hein-solo-violin-kontakt-library:chromaphone-vst:classik-studio-reverb-vst:cockos-reaper:cool-edit-pro:credland-audio-stereo-savage-vst:cyberlink-audiodirector-ultra:cyberlink-waveeditor:cytomic-the-glue-vst:d16-all-plugins-total-bundle-vst:dmg-audio-all-vst-plugin-bundle:dear-reality-dearvr-pro-vst:diamond-cut-dc-live-forensics-audio-laboratory:dolby-atmos:dorico:virtual-dj-pro-8---plugins:drumagog-platinum-5---library:drumdrops-drums-bundles-kontakt-library:empty-250-vst:eiosis-aireq-premium-vst-plugin:eiosis-e2deesser-vst:emagic-logic-audio-platinum:ethno-world-6-complete-vst:exhale-vocal-engine-vst-kontakt-library:fl-studio-12.5-signature-bundle---all-fl-studio-plugins:fl-studio-20.1.1-jan-2019:fl-studio-producer-edition:fl-studio-xxl-producer-edition-v8.0.2---autotune-v5:fab-filters-plugins-pack:fabfilter-pro:fabfilter-total-bundle-vst:filmstro-pro:future-bass-midi-wav-presets-pack:fxsound-enhancer-premium:gsi-vb3-ii-vst:gilisoft-audio-recorder-pro:glitch-2-vst:harmony-engine-vst:hypersonic-2-vst:idoser---all-doses:ik-multimedia-amplitube-4-vst:ik-multimedia-syntronik-vst:ik-multimedia-t-racks-5-vst:izotope-stutter:ichiro-toda-–-synth1-plugin:ignite-heat-up-v2-vst---update:image-line-fl-studio-producer-edition-12.3-portable:impact-hits-kontakt-library:internet-ability-pro:jam-origin-midi-guitar-2-vst:korg-legacy-collection-special-bundle:korg-legacy-collection-vst-bundle:keyscape-13-kontakt-library:luxonix-ravity-vst-bundle:lacrimosa-epic-female-choir-kontakt-library:lakeside-audio-isola-fx-2:letasoft-sound-booster:lexicon-reverb-bundle-vst:line6-helix-native-vst:liquidsonics-reverberate-2-vst:logic-pro-x-dmg:longcat-audio-h3d-vst-plugin:loopmasters-bass-master-vst-plugin:lounge-lizard-ep-vst:magix-acid-pro-8:magix-audio-and-music-lab-2016-premium:magix-sound-forge-audio-studio-2019:magix-samplitude-music-studio-2017:magix-sound-forge-audio-studio-10:magix-sound-forge-pro-11:midiculous:motu-daw:motu-digital-performer-v10:mp3-resizer:magic-ab-vst:mastering-the-mix-levels:mathew-lane-–-drms-spatial-processor-vst:meldaproduction-–-maudioplugins-2019-vst:mercuriall-–-bundle-vst:midirunner-123tag:miroslav-philharmonik-vst:mixvibes-cross:mixed-in-key:mixvibes-remixlive:modo-bass:morphvox-pro:mp3tag-2019:musiclab-realeight:nch-express-dictate:nch-mixpad-audio-mixer:native-instruments-absynth-vsti:native-instruments-discovery-series-india-kontakt-library:native-instruments-discovery-series-middle-east-kontakt-library:native-instruments-fx-vst-pack:native-instruments-kontakt-5.7.3-vst:native-instruments-kontakt-6:native-instruments-session-guitarist:native-instruments-session-horns-kontakt-library:naturalreader-professional:neuratron-audio-score-ultimate:neuratron-audioscore-ultimate:neuratron-photoscore---notateme-ultimate-2018:nextup-textaloud-2019:nicky-romero-kickstart-vst:nomad-factory-magma-vst:noteburner-itunes-drm-audio-converter:oasys-software-suite-14.1:output-analog-strings-kontakt-library:overloud-mark-studio-vst:overloud-th3-vst:pdftomusic-pro:pspaudioware-vst-bundle:pianoteq---addons---presets:pianoteq-stage-6-vst:plogue-aria-engine:plogue-plugins-pack:polyverse-infected-mushroom-manipulator:presonus-studio-one:presonus-notion-6:presonus-studio-one-professional-4:qps-qimera-1.6.3:rc-20-retro-color:rc-20-retro-color-vst:radioboss-advanced:razer-surround-pro:refx-nexus-house-vol-1-expansion-pack:refx-nexus-v.2.2---all-official-banks:refx-nexus-v.2.2-free:regroover-pro-vst:repeater-vst:reveal-sound-spire:reveal-sound-spire-vst-dmg:sonar-x3-producer-edition:sony-sound-forge-pro:sample-logic-xosphere-kontact:sample-logic-–-xosphere-2-kontakt-library:samplehero-evoque-vocal-synth-kontakt-library:sampletank-vst:sausage-fattener-vst-plugin:scaler-vst:scarbee-vintage-keys-kontakt-library:scott-storch-vst:serato-sample-vst-plugin:session-guitarist-electric-sunburst-kontakt-vst-library:shevannai-the-voices-of-elves-kontakt-library:sidify-spotify-music-converter:slate-digital-vmr-complete-bundle-vst:slate-digital-verbsuite-classics-plugin:slate-digital-virtual-buss-compressors-vst:softplug-adventus-vst:solid-state-logic-duende-native-vst:sonalksis-all-plugins-bundle-vst:sonarworks-reference-4-studio:sonic-academy-kick-2-vst:sonik-synth-2-vsti:sony-spectralayers-pro:sound-normalizer:soundtoys-v5-vst:soundplant:spectrasonics-omnisphere-2-complete-pack:spectrasonics-stylus-rmx-vsti:spectrasonics-trilian-vsti:spinnin-records-base-vst:spitfire-audio-labs-kontakt-libraries:steven-slate-drums-ssd4-sampler---library-platinum:sugarbytes-effectrix:superior-drummer-3:swar-systems-swarplugin:sylenth1-preset-banks-collection:symphony-essentials-percussion-kontakt-library:synapse-audio-dune-vsti:synapse-audio-dune-3-vst:synchro-arts-revoice-pro:synthmaster-one-vst:tal-u-no-lx-vst:th-studio-trailer-elements-cinematic-sounds-pack-kontakt-library:tag-rename:tone2-electra2:tone2-gladiator-vsti:tone2-icarus:tone2-–-electrax:toontrack-ezmix-2-with-expansion-pack:toontrack-ezkeys-complete-vsti:toraverb-vst:tracktion-5:tracktion-waveform-9-vst:tunefab-spotify-music-converter:vsl-horizon-series-saxophones-i-kontakt-library:valhalla-plate--room--vintage-verb-vst:vengeance-avenger:vengeance-electroshock-vol-1-and-2:vintage-organs-kontakt-library:virtual-audio-cable:virtual-dj-studio-2015:vox-engine-2-for-kontakt:voxal-voice-changer:widi-music-recognition-system-pro:wavepad-sound-editor-master-edition:waves-complete-plugins-2018-v10:wondershare-streaming-audio-recorder:xils-vocoder-5000-vsts:xfer-records-cthulhu:xfer-records-lfotool-vst:xfer-records-serum-serumfx-cthulhu-lfotool-ott:xfer-serum-1.20.b5:yamaha-vocaloid-v4:yamaha-vocaloid-5.0.3---libraries-standalone-vsti:yogen-vocal-remover:youlean-loudness-meter-pro-vst-plugin:zynaptiq-–-morph-vst:izotope-insight-vst:izotope-mobius-filter-vst:izotope-nectar-3-plugin:izotope-ozone-6-advanced:izotope-ozone-advanced-8-vst:izotope-ozone-advanced-v7:izotope-rx-6-audio-editor-advanced:izotope-rx-7-audio-editor-advanced-vst:izotope-rx-loudness-control:izotope-stutter-edit:izotope-trash-2-vst:izotope-vocal-doubler-vst:izotope-vocalsynth:izotope-vocalsynth-v2:jbridge:n-track-studio-ex:tone2-saurus2:u-he-hive-vsti:zplane-elastique-pitch-vst"/>
+    <file name="require.js" crc="4157109226" ref="index:2c-audio-aether-vst:4front-truepianos-vst:8dio-edm-trap-kontakt-library:808-bloodline-vst:808-studio-vst:adobe-audition:audacity:audio4fun-av-voice-changer-diamond:auto-tune-evo:antares-auto-tune-evo:ableton-live-suite:audio-record-wizard:audials-one:acoustica-mixcraft-pro-studio:avs-audio-editor:antares-auto-tune:avid-protools:antares-avox-evo-vocal-vst-bundle:auto-tune-efx:audiothing-plugins-bundle-vst:air-music-tech-xpand2:apowersoft-streaming-audio-recorder:arturia-v-plugins-collection-vst:albino-3-vst:accusonus-era-bundle-pro-2:apple-mainstage:abbey-road-modern-drummer-kontakt-library:arturia-–-pigments-vst:ample-sound-–-ample-guitar-m-iii-3:bias-amp-2:bigasoft-audio-converter:black-octopus-mystical-indian-percussion-kontakt-library-vst:blue-cat-audio-–-blue-cat’s-all-plug-ins-pack-2018-vst:bornemark-broomstick-bass-vsti:breakaway-audio-enhancer:cableguys-halftime-vst:cakewalk-sonar-platinum-23-with-plugins---content:cakewalk-sonitus-fx-plugin-suite-vst:cantabile-performer-vst:celemony-melodyne-editor:celemony-melodyne-editor-setup:chris-hein-solo-violin-kontakt-library:chromaphone-vst:classik-studio-reverb-vst:cockos-reaper:cool-edit-pro:credland-audio-stereo-savage-vst:cyberlink-audiodirector-ultra:cyberlink-waveeditor:cytomic-the-glue-vst:d16-all-plugins-total-bundle-vst:dmg-audio-all-vst-plugin-bundle:dear-reality-dearvr-pro-vst:diamond-cut-dc-live-forensics-audio-laboratory:dolby-atmos:dorico:virtual-dj-pro-8---plugins:drumagog-platinum-5---library:drumdrops-drums-bundles-kontakt-library:empty-250-vst:eiosis-aireq-premium-vst-plugin:eiosis-e2deesser-vst:emagic-logic-audio-platinum:ethno-world-6-complete-vst:exhale-vocal-engine-vst-kontakt-library:fl-studio-12.5-signature-bundle---all-fl-studio-plugins:fl-studio-20.1.1-jan-2019:fl-studio-producer-edition:fl-studio-xxl-producer-edition-v8.0.2---autotune-v5:fab-filters-plugins-pack:fabfilter-pro:fabfilter-total-bundle-vst:filmstro-pro:future-bass-midi-wav-presets-pack:fxsound-enhancer-premium:gsi-vb3-ii-vst:gilisoft-audio-recorder-pro:glitch-2-vst:harmony-engine-vst:hypersonic-2-vst:idoser---all-doses:ik-multimedia-amplitube-4-vst:ik-multimedia-syntronik-vst:ik-multimedia-t-racks-5-vst:izotope-stutter:ichiro-toda-–-synth1-plugin:ignite-heat-up-v2-vst---update:image-line-fl-studio-producer-edition-12.3-portable:impact-hits-kontakt-library:internet-ability-pro:jam-origin-midi-guitar-2-vst:korg-legacy-collection-special-bundle:korg-legacy-collection-vst-bundle:keyscape-13-kontakt-library:luxonix-ravity-vst-bundle:lacrimosa-epic-female-choir-kontakt-library:lakeside-audio-isola-fx-2:letasoft-sound-booster:lexicon-reverb-bundle-vst:line6-helix-native-vst:liquidsonics-reverberate-2-vst:logic-pro-x-dmg:longcat-audio-h3d-vst-plugin:loopmasters-bass-master-vst-plugin:lounge-lizard-ep-vst:magix-acid-pro-8:magix-audio-and-music-lab-2016-premium:magix-sound-forge-audio-studio-2019:magix-samplitude-music-studio-2017:magix-sound-forge-audio-studio-10:magix-sound-forge-pro-11:midiculous:motu-daw:motu-digital-performer-v10:mp3-resizer:magic-ab-vst:mastering-the-mix-levels:mathew-lane-–-drms-spatial-processor-vst:meldaproduction-–-maudioplugins-2019-vst:mercuriall-–-bundle-vst:midirunner-123tag:miroslav-philharmonik-vst:mixvibes-cross:mixed-in-key:mixvibes-remixlive:modo-bass:morphvox-pro:mp3tag-2019:musiclab-realeight:nch-express-dictate:nch-mixpad-audio-mixer:native-instruments-absynth-vsti:native-instruments-discovery-series-india-kontakt-library:native-instruments-discovery-series-middle-east-kontakt-library:native-instruments-fx-vst-pack:native-instruments-kontakt-5.7.3-vst:native-instruments-kontakt-6:native-instruments-session-guitarist:native-instruments-session-horns-kontakt-library:naturalreader-professional:neuratron-audio-score-ultimate:neuratron-audioscore-ultimate:neuratron-photoscore---notateme-ultimate-2018:nextup-textaloud-2019:nicky-romero-kickstart-vst:nomad-factory-magma-vst:noteburner-itunes-drm-audio-converter:oasys-software-suite-14.1:output-analog-strings-kontakt-library:overloud-mark-studio-vst:overloud-th3-vst:pdftomusic-pro:pspaudioware-vst-bundle:pianoteq---addons---presets:pianoteq-stage-6-vst:plogue-aria-engine:plogue-plugins-pack:polyverse-infected-mushroom-manipulator:presonus-studio-one:presonus-notion-6:presonus-studio-one-professional-4:qps-qimera-1.6.3:rc-20-retro-color:rc-20-retro-color-vst:radioboss-advanced:razer-surround-pro:refx-nexus-house-vol-1-expansion-pack:refx-nexus-v.2.2---all-official-banks:refx-nexus-v.2.2-free:regroover-pro-vst:repeater-vst:reveal-sound-spire:reveal-sound-spire-vst-dmg:sonar-x3-producer-edition:sony-sound-forge-pro:sample-logic-xosphere-kontact:sample-logic-–-xosphere-2-kontakt-library:samplehero-evoque-vocal-synth-kontakt-library:sampletank-vst:sausage-fattener-vst-plugin:scaler-vst:scarbee-vintage-keys-kontakt-library:scott-storch-vst:serato-sample-vst-plugin:session-guitarist-electric-sunburst-kontakt-vst-library:shevannai-the-voices-of-elves-kontakt-library:sidify-spotify-music-converter:slate-digital-vmr-complete-bundle-vst:slate-digital-verbsuite-classics-plugin:slate-digital-virtual-buss-compressors-vst:softplug-adventus-vst:solid-state-logic-duende-native-vst:sonalksis-all-plugins-bundle-vst:sonarworks-reference-4-studio:sonic-academy-kick-2-vst:sonik-synth-2-vsti:sony-spectralayers-pro:sound-normalizer:soundtoys-v5-vst:soundplant:spectrasonics-omnisphere-2-complete-pack:spectrasonics-stylus-rmx-vsti:spectrasonics-trilian-vsti:spinnin-records-base-vst:spitfire-audio-labs-kontakt-libraries:steven-slate-drums-ssd4-sampler---library-platinum:sugarbytes-effectrix:superior-drummer-3:swar-systems-swarplugin:sylenth1-preset-banks-collection:symphony-essentials-percussion-kontakt-library:synapse-audio-dune-vsti:synapse-audio-dune-3-vst:synchro-arts-revoice-pro:synthmaster-one-vst:tal-u-no-lx-vst:th-studio-trailer-elements-cinematic-sounds-pack-kontakt-library:tag-rename:tone2-electra2:tone2-gladiator-vsti:tone2-icarus:tone2-–-electrax:toontrack-ezmix-2-with-expansion-pack:toontrack-ezkeys-complete-vsti:toraverb-vst:tracktion-5:tracktion-waveform-9-vst:tunefab-spotify-music-converter:vsl-horizon-series-saxophones-i-kontakt-library:valhalla-plate--room--vintage-verb-vst:vengeance-avenger:vengeance-electroshock-vol-1-and-2:vintage-organs-kontakt-library:virtual-audio-cable:virtual-dj-studio-2015:vox-engine-2-for-kontakt:voxal-voice-changer:widi-music-recognition-system-pro:wavepad-sound-editor-master-edition:waves-complete-plugins-2018-v10:wondershare-streaming-audio-recorder:xils-vocoder-5000-vsts:xfer-records-cthulhu:xfer-records-lfotool-vst:xfer-records-serum-serumfx-cthulhu-lfotool-ott:xfer-serum-1.20.b5:yamaha-vocaloid-v4:yamaha-vocaloid-5.0.3---libraries-standalone-vsti:yogen-vocal-remover:youlean-loudness-meter-pro-vst-plugin:zynaptiq-–-morph-vst:izotope-insight-vst:izotope-mobius-filter-vst:izotope-nectar-3-plugin:izotope-ozone-6-advanced:izotope-ozone-advanced-8-vst:izotope-ozone-advanced-v7:izotope-rx-6-audio-editor-advanced:izotope-rx-7-audio-editor-advanced-vst:izotope-rx-loudness-control:izotope-stutter-edit:izotope-trash-2-vst:izotope-vocal-doubler-vst:izotope-vocalsynth:izotope-vocalsynth-v2:jbridge:n-track-studio-ex:tone2-saurus2:u-he-hive-vsti:zplane-elastique-pitch-vst"/>
+  </folder>
+  <folder name="images">
+    <file name="f858214a-4795-4588-bc56-59db79121258.png" crc="234084666" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="121585697" seo="true" mt="1553579856846" redirect="true"/>
+  <file name="2c-audio-aether-vst.html" crc="3843468453" seo="true" mt="1553580047803" redirect="true"/>
+  <file name="4front-truepianos-vst.html" crc="17022167" seo="true" mt="1553580064733" redirect="true"/>
+  <file name="8dio-edm-trap-kontakt-library.html" crc="3815439894" seo="true" mt="1553580079601" redirect="true"/>
+  <file name="808-bloodline-vst.html" crc="3906488129" seo="true" mt="1553580095446" redirect="true"/>
+  <file name="808-studio-vst.html" crc="4069141091" seo="true" mt="1553580108524" redirect="true"/>
+  <file name="adobe-audition.html" crc="284518841" seo="true" mt="1553580237819" redirect="true"/>
+  <file name="audacity.html" crc="113073476" seo="true" mt="1553580786024" redirect="true"/>
+  <file name="audio4fun-av-voice-changer-diamond.html" crc="490984536" seo="true" mt="1553580815697" redirect="true"/>
+  <file name="auto-tune-evo.html" crc="357807802" seo="true" mt="1553580836864" redirect="true"/>
+  <file name="antares-auto-tune-evo.html" crc="4006427547" seo="true" mt="1553580856189" redirect="true"/>
+  <file name="ableton-live-suite.html" crc="270101179" seo="true" mt="1553580877625" redirect="true"/>
+  <file name="audio-record-wizard.html" crc="3856687270" seo="true" mt="1553580889625" redirect="true"/>
+  <file name="audials-one.html" crc="253101198" seo="true" mt="1553580917336" redirect="true"/>
+  <file name="acoustica-mixcraft-pro-studio.html" crc="4229201568" seo="true" mt="1553580954961" redirect="true"/>
+  <file name="avs-audio-editor.html" crc="196089524" seo="true" mt="1553581070407" redirect="true"/>
+  <file name="antares-auto-tune.html" crc="388644585" seo="true" mt="1553581091496" redirect="true"/>
+  <file name="avid-protools.html" crc="3933251222" seo="true" mt="1553581108558" redirect="true"/>
+  <file name="antares-avox-evo-vocal-vst-bundle.html" crc="4219778289" seo="true" mt="1553581127219" redirect="true"/>
+  <file name="auto-tune-efx.html" crc="4014541566" seo="true" mt="1553581153681" redirect="true"/>
+  <file name="audiothing-plugins-bundle-vst.html" crc="4015085788" seo="true" mt="1553581190896" redirect="true"/>
+  <file name="air-music-tech-xpand2.html" crc="234743865" seo="true" mt="1553581205876" redirect="true"/>
+  <file name="apowersoft-streaming-audio-recorder.html" crc="3959572307" seo="true" mt="1553581222641" redirect="true"/>
+  <file name="arturia-v-plugins-collection-vst.html" crc="359391173" seo="true" mt="1553581247795" redirect="true"/>
+  <file name="albino-3-vst.html" crc="188453916" seo="true" mt="1553581267130" redirect="true"/>
+  <file name="accusonus-era-bundle-pro-2.html" crc="4237395087" seo="true" mt="1553581290524" redirect="true"/>
+  <file name="apple-mainstage.html" crc="55947556" seo="true" mt="1553581313795" redirect="true"/>
+  <file name="abbey-road-modern-drummer-kontakt-library.html" crc="423133470" seo="true" mt="1553581348202" redirect="true"/>
+  <file name="arturia-–-pigments-vst.html" crc="4080563659" seo="true" mt="1553581365096" redirect="true"/>
+  <file name="ample-sound-–-ample-guitar-m-iii-3.html" crc="251901030" seo="true" mt="1553581383200" redirect="true"/>
+  <file name="bias-amp-2.html" crc="102983489" seo="true" mt="1553583638251" redirect="true"/>
+  <file name="bigasoft-audio-converter.html" crc="4052345184" seo="true" mt="1553583656155" redirect="true"/>
+  <file name="black-octopus-mystical-indian-percussion-kontakt-library-vst.html" crc="3902584851" seo="true" mt="1553583672026" redirect="true"/>
+  <file name="blue-cat-audio-–-blue-cat’s-all-plug-ins-pack-2018-vst.html" crc="3863868220" seo="true" mt="1553583688225" redirect="true"/>
+  <file name="bornemark-broomstick-bass-vsti.html" crc="90268578" seo="true" mt="1553583703395" redirect="true"/>
+  <file name="breakaway-audio-enhancer.html" crc="4289944998" seo="true" mt="1553583715998" redirect="true"/>
+  <file name="cableguys-halftime-vst.html" crc="387425097" seo="true" mt="1553583741512" redirect="true"/>
+  <file name="cakewalk-sonar-platinum-23-with-plugins---content.html" crc="4050142260" seo="true" mt="1553583765275" redirect="true"/>
+  <file name="cakewalk-sonitus-fx-plugin-suite-vst.html" crc="447210195" seo="true" mt="1553583779558" redirect="true"/>
+  <file name="cantabile-performer-vst.html" crc="462310960" seo="true" mt="1553583791113" redirect="true"/>
+  <file name="celemony-melodyne-editor.html" crc="4280361055" seo="true" mt="1553583820884" redirect="true"/>
+  <file name="celemony-melodyne-editor-setup.html" crc="232178592" seo="true" mt="1553583832892" redirect="true"/>
+  <file name="chris-hein-solo-violin-kontakt-library.html" crc="334035334" seo="true" mt="1553583843723" redirect="true"/>
+  <file name="chromaphone-vst.html" crc="223899042" seo="true" mt="1553584004120" redirect="true"/>
+  <file name="classik-studio-reverb-vst.html" crc="4126643456" seo="true" mt="1553584021734" redirect="true"/>
+  <file name="cockos-reaper.html" crc="3963986260" seo="true" mt="1553584031293" redirect="true"/>
+  <file name="cool-edit-pro.html" crc="5015502" seo="true" mt="1553584039773" redirect="true"/>
+  <file name="credland-audio-stereo-savage-vst.html" crc="4156018502" seo="true" mt="1553584052119" redirect="true"/>
+  <file name="cyberlink-audiodirector-ultra.html" crc="3793180227" seo="true" mt="1553584064902" redirect="true"/>
+  <file name="cyberlink-waveeditor.html" crc="3812449130" seo="true" mt="1553584073112" redirect="true"/>
+  <file name="cytomic-the-glue-vst.html" crc="3813279368" seo="true" mt="1553584084528" redirect="true"/>
+  <file name="d16-all-plugins-total-bundle-vst.html" crc="3957907899" seo="true" mt="1553584095855" redirect="true"/>
+  <file name="dmg-audio-all-vst-plugin-bundle.html" crc="4193977648" seo="true" mt="1553584109040" redirect="true"/>
+  <file name="dear-reality-dearvr-pro-vst.html" crc="162729909" seo="true" mt="1553584117541" redirect="true"/>
+  <file name="diamond-cut-dc-live-forensics-audio-laboratory.html" crc="3906637842" seo="true" mt="1553584131905" redirect="true"/>
+  <file name="dolby-atmos.html" crc="3983061667" seo="true" mt="1553584139543" redirect="true"/>
+  <file name="dorico.html" crc="4033626463" seo="true" mt="1553584149356" redirect="true"/>
+  <file name="virtual-dj-pro-8---plugins.html" crc="459832297" seo="true" mt="1553584165715" redirect="true"/>
+  <file name="drumagog-platinum-5---library.html" crc="4054035084" seo="true" mt="1553584177887" redirect="true"/>
+  <file name="drumdrops-drums-bundles-kontakt-library.html" crc="162975223" seo="true" mt="1553584187622" redirect="true"/>
+  <file name="empty-250-vst.html" crc="4190633894" seo="true" mt="1553584198957" redirect="true"/>
+  <file name="eiosis-aireq-premium-vst-plugin.html" crc="3784853751" seo="true" mt="1553584207954" redirect="true"/>
+  <file name="eiosis-e2deesser-vst.html" crc="4023121135" seo="true" mt="1553584218566" redirect="true"/>
+  <file name="emagic-logic-audio-platinum.html" crc="406137847" seo="true" mt="1553584227775" redirect="true"/>
+  <file name="ethno-world-6-complete-vst.html" crc="70318092" seo="true" mt="1553584235377" redirect="true"/>
+  <file name="exhale-vocal-engine-vst-kontakt-library.html" crc="3836990154" seo="true" mt="1553584244560" redirect="true"/>
+  <file name="fl-studio-12.5-signature-bundle---all-fl-studio-plugins.html" crc="3982109652" seo="true" mt="1553584276350" redirect="true"/>
+  <file name="fl-studio-20.1.1-jan-2019.html" crc="4126363975" seo="true" mt="1553584286243" redirect="true"/>
+  <file name="fl-studio-producer-edition.html" crc="3850814772" seo="true" mt="1553584353613" redirect="true"/>
+  <file name="fl-studio-xxl-producer-edition-v8.0.2---autotune-v5.html" crc="3948636152" seo="true" mt="1553584372025" redirect="true"/>
+  <file name="fab-filters-plugins-pack.html" crc="4165080392" seo="true" mt="1553584382356" redirect="true"/>
+  <file name="fabfilter-pro.html" crc="420017095" seo="true" mt="1553584394078" redirect="true"/>
+  <file name="fabfilter-total-bundle-vst.html" crc="6232041" seo="true" mt="1553584404967" redirect="true"/>
+  <file name="filmstro-pro.html" crc="3803726442" seo="true" mt="1553584412630" redirect="true"/>
+  <file name="future-bass-midi-wav-presets-pack.html" crc="440111630" seo="true" mt="1553584427456" redirect="true"/>
+  <file name="fxsound-enhancer-premium.html" crc="3889255942" seo="true" mt="1553584440362" redirect="true"/>
+  <file name="gsi-vb3-ii-vst.html" crc="32876899" seo="true" mt="1553584456102" redirect="true"/>
+  <file name="gilisoft-audio-recorder-pro.html" crc="4207084460" seo="true" mt="1553584465351" redirect="true"/>
+  <file name="glitch-2-vst.html" crc="3870666136" seo="true" mt="1553584474348" redirect="true"/>
+  <file name="harmony-engine-vst.html" crc="35452301" seo="true" mt="1553584481799" redirect="true"/>
+  <file name="hypersonic-2-vst.html" crc="3762336446" seo="true" mt="1553584515508" redirect="true"/>
+  <file name="idoser---all-doses.html" crc="3926189050" seo="true" mt="1553584527266" redirect="true"/>
+  <file name="ik-multimedia-amplitube-4-vst.html" crc="4154315992" seo="true" mt="1553584550062" redirect="true"/>
+  <file name="ik-multimedia-syntronik-vst.html" crc="4225400287" seo="true" mt="1553584583254" redirect="true"/>
+  <file name="ik-multimedia-t-racks-5-vst.html" crc="358769435" seo="true" mt="1553584601847" redirect="true"/>
+  <file name="izotope-stutter.html" crc="4037351160" seo="true" mt="1553584657549" redirect="true"/>
+  <file name="ichiro-toda-–-synth1-plugin.html" crc="4054809893" seo="true" mt="1553584811958" redirect="true"/>
+  <file name="ignite-heat-up-v2-vst---update.html" crc="4114648763" seo="true" mt="1553584829029" redirect="true"/>
+  <file name="image-line-fl-studio-producer-edition-12.3-portable.html" crc="4178297027" seo="true" mt="1553584855174" redirect="true"/>
+  <file name="impact-hits-kontakt-library.html" crc="4293981449" seo="true" mt="1553584865690" redirect="true"/>
+  <file name="internet-ability-pro.html" crc="248004020" seo="true" mt="1553584876066" redirect="true"/>
+  <file name="jam-origin-midi-guitar-2-vst.html" crc="111614415" seo="true" mt="1553584888754" redirect="true"/>
+  <file name="korg-legacy-collection-special-bundle.html" crc="4066915630" seo="true" mt="1553584897657" redirect="true"/>
+  <file name="korg-legacy-collection-vst-bundle.html" crc="134830759" seo="true" mt="1553584910469" redirect="true"/>
+  <file name="keyscape-13-kontakt-library.html" crc="4179439128" seo="true" mt="1553584918045" redirect="true"/>
+  <file name="luxonix-ravity-vst-bundle.html" crc="334091720" seo="true" mt="1553584929091" redirect="true"/>
+  <file name="lacrimosa-epic-female-choir-kontakt-library.html" crc="3932995959" seo="true" mt="1553584938923" redirect="true"/>
+  <file name="lakeside-audio-isola-fx-2.html" crc="319108329" seo="true" mt="1553584951550" redirect="true"/>
+  <file name="letasoft-sound-booster.html" crc="42535717" seo="true" mt="1553584961876" redirect="true"/>
+  <file name="lexicon-reverb-bundle-vst.html" crc="4137479786" seo="true" mt="1553584971834" redirect="true"/>
+  <file name="line6-helix-native-vst.html" crc="309937958" seo="true" mt="1553584979108" redirect="true"/>
+  <file name="liquidsonics-reverberate-2-vst.html" crc="4186861297" seo="true" mt="1553584991116" redirect="true"/>
+  <file name="logic-pro-x-dmg.html" crc="3866731245" seo="true" mt="1553585007442" redirect="true"/>
+  <file name="longcat-audio-h3d-vst-plugin.html" crc="4282954623" seo="true" mt="1553585019177" redirect="true"/>
+  <file name="loopmasters-bass-master-vst-plugin.html" crc="3885507031" seo="true" mt="1553585030414" redirect="true"/>
+  <file name="lounge-lizard-ep-vst.html" crc="486629960" seo="true" mt="1553585041355" redirect="true"/>
+  <file name="magix-acid-pro-8.html" crc="4171850490" seo="true" mt="1553585053099" redirect="true"/>
+  <file name="magix-audio-and-music-lab-2016-premium.html" crc="252794274" seo="true" mt="1553585063359" redirect="true"/>
+  <file name="magix-sound-forge-audio-studio-2019.html" crc="3844346626" seo="true" mt="1553585072592" redirect="true"/>
+  <file name="magix-samplitude-music-studio-2017.html" crc="499710428" seo="true" mt="1553585083417" redirect="true"/>
+  <file name="magix-sound-forge-audio-studio-10.html" crc="383937353" seo="true" mt="1553585092126" redirect="true"/>
+  <file name="magix-sound-forge-pro-11.html" crc="222217054" seo="true" mt="1553585102071" redirect="true"/>
+  <file name="midiculous.html" crc="322882849" seo="true" mt="1553585119377" redirect="true"/>
+  <file name="motu-daw.html" crc="3807548554" seo="true" mt="1553585129025" redirect="true"/>
+  <file name="motu-digital-performer-v10.html" crc="4293992369" seo="true" mt="1553585137387" redirect="true"/>
+  <file name="mp3-resizer.html" crc="146010354" seo="true" mt="1553585146269" redirect="true"/>
+  <file name="magic-ab-vst.html" crc="169848260" seo="true" mt="1553585157361" redirect="true"/>
+  <file name="mastering-the-mix-levels.html" crc="3987257824" seo="true" mt="1553585165638" redirect="true"/>
+  <file name="mathew-lane-–-drms-spatial-processor-vst.html" crc="4086290822" seo="true" mt="1553585177237" redirect="true"/>
+  <file name="meldaproduction-–-maudioplugins-2019-vst.html" crc="415265040" seo="true" mt="1553585194045" redirect="true"/>
+  <file name="mercuriall-–-bundle-vst.html" crc="272090700" seo="true" mt="1553585204305" redirect="true"/>
+  <file name="midirunner-123tag.html" crc="286369271" seo="true" mt="1553585214309" redirect="true"/>
+  <file name="miroslav-philharmonik-vst.html" crc="111250296" seo="true" mt="1553585225675" redirect="true"/>
+  <file name="mixvibes-cross.html" crc="135193906" seo="true" mt="1553585233809" redirect="true"/>
+  <file name="mixed-in-key.html" crc="4161890683" seo="true" mt="1553585243068" redirect="true"/>
+  <file name="mixvibes-remixlive.html" crc="4184032832" seo="true" mt="1553585251143" redirect="true"/>
+  <file name="modo-bass.html" crc="4255126045" seo="true" mt="1553585266660" redirect="true"/>
+  <file name="morphvox-pro.html" crc="338810883" seo="true" mt="1553585275983" redirect="true"/>
+  <file name="mp3tag-2019.html" crc="3790468623" seo="true" mt="1553585285791" redirect="true"/>
+  <file name="musiclab-realeight.html" crc="3904971387" seo="true" mt="1553585297506" redirect="true"/>
+  <file name="nch-express-dictate.html" crc="488292514" seo="true" mt="1553585312683" redirect="true"/>
+  <file name="nch-mixpad-audio-mixer.html" crc="441359017" seo="true" mt="1553585321357" redirect="true"/>
+  <file name="native-instruments-absynth-vsti.html" crc="147494540" seo="true" mt="1553585335909" redirect="true"/>
+  <file name="native-instruments-discovery-series-india-kontakt-library.html" crc="4073897641" seo="true" mt="1553585348114" redirect="true"/>
+  <file name="native-instruments-discovery-series-middle-east-kontakt-library.html" crc="3913699207" seo="true" mt="1553585361911" redirect="true"/>
+  <file name="native-instruments-fx-vst-pack.html" crc="3919434532" seo="true" mt="1553585370860" redirect="true"/>
+  <file name="native-instruments-kontakt-5.7.3-vst.html" crc="4089144895" seo="true" mt="1553585381163" redirect="true"/>
+  <file name="native-instruments-kontakt-6.html" crc="502400297" seo="true" mt="1553585394825" redirect="true"/>
+  <file name="native-instruments-session-guitarist.html" crc="4009967215" seo="true" mt="1553585406582" redirect="true"/>
+  <file name="native-instruments-session-horns-kontakt-library.html" crc="4081729733" seo="true" mt="1553585416952" redirect="true"/>
+  <file name="naturalreader-professional.html" crc="269609423" seo="true" mt="1553585428663" redirect="true"/>
+  <file name="neuratron-audio-score-ultimate.html" crc="4000797052" seo="true" mt="1553585437349" redirect="true"/>
+  <file name="neuratron-audioscore-ultimate.html" crc="78086908" seo="true" mt="1553585448061" redirect="true"/>
+  <file name="neuratron-photoscore---notateme-ultimate-2018.html" crc="34218482" seo="true" mt="1553585457983" redirect="true"/>
+  <file name="nextup-textaloud-2019.html" crc="3904603681" seo="true" mt="1553585470126" redirect="true"/>
+  <file name="nicky-romero-kickstart-vst.html" crc="173373812" seo="true" mt="1553585478506" redirect="true"/>
+  <file name="nomad-factory-magma-vst.html" crc="191983629" seo="true" mt="1553585490596" redirect="true"/>
+  <file name="noteburner-itunes-drm-audio-converter.html" crc="125730039" seo="true" mt="1553585505253" redirect="true"/>
+  <file name="oasys-software-suite-14.1.html" crc="448054624" seo="true" mt="1553585517263" redirect="true"/>
+  <file name="output-analog-strings-kontakt-library.html" crc="3955140355" seo="true" mt="1553585531234" redirect="true"/>
+  <file name="overloud-mark-studio-vst.html" crc="4093926957" seo="true" mt="1553585544740" redirect="true"/>
+  <file name="overloud-th3-vst.html" crc="4284080985" seo="true" mt="1553585552444" redirect="true"/>
+  <file name="pdftomusic-pro.html" crc="449283622" seo="true" mt="1553585564345" redirect="true"/>
+  <file name="pspaudioware-vst-bundle.html" crc="301793565" seo="true" mt="1553585571380" redirect="true"/>
+  <file name="pianoteq---addons---presets.html" crc="237173781" seo="true" mt="1553585579535" redirect="true"/>
+  <file name="pianoteq-stage-6-vst.html" crc="532877686" seo="true" mt="1553585587065" redirect="true"/>
+  <file name="plogue-aria-engine.html" crc="50674532" seo="true" mt="1553585595737" redirect="true"/>
+  <file name="plogue-plugins-pack.html" crc="209695098" seo="true" mt="1553585602639" redirect="true"/>
+  <file name="polyverse-infected-mushroom-manipulator.html" crc="3993013233" seo="true" mt="1553585612740" redirect="true"/>
+  <file name="presonus-studio-one.html" crc="65674752" seo="true" mt="1553585620255" redirect="true"/>
+  <file name="presonus-notion-6.html" crc="285623861" seo="true" mt="1553585628768" redirect="true"/>
+  <file name="presonus-studio-one-professional-4.html" crc="4043841164" seo="true" mt="1553585636911" redirect="true"/>
+  <file name="qps-qimera-1.6.3.html" crc="4143247602" seo="true" mt="1553585646773" redirect="true"/>
+  <file name="rc-20-retro-color.html" crc="137280198" seo="true" mt="1553585654900" redirect="true"/>
+  <file name="rc-20-retro-color-vst.html" crc="4051357748" seo="true" mt="1553585664990" redirect="true"/>
+  <file name="radioboss-advanced.html" crc="3837548540" seo="true" mt="1553585672899" redirect="true"/>
+  <file name="razer-surround-pro.html" crc="520969337" seo="true" mt="1553585681420" redirect="true"/>
+  <file name="refx-nexus-house-vol-1-expansion-pack.html" crc="3865569946" seo="true" mt="1553585698444" redirect="true"/>
+  <file name="refx-nexus-v.2.2---all-official-banks.html" crc="293318305" seo="true" mt="1553585708282" redirect="true"/>
+  <file name="refx-nexus-v.2.2-free.html" crc="237465870" seo="true" mt="1553585722219" redirect="true"/>
+  <file name="regroover-pro-vst.html" crc="3777867780" seo="true" mt="1553585730528" redirect="true"/>
+  <file name="repeater-vst.html" crc="4229820066" seo="true" mt="1553585741011" redirect="true"/>
+  <file name="reveal-sound-spire.html" crc="222570186" seo="true" mt="1553585753240" redirect="true"/>
+  <file name="reveal-sound-spire-vst-dmg.html" crc="161057431" seo="true" mt="1553585768292" redirect="true"/>
+  <file name="sonar-x3-producer-edition.html" crc="444676283" seo="true" mt="1553585775932" redirect="true"/>
+  <file name="sony-sound-forge-pro.html" crc="4090382743" seo="true" mt="1553585785228" redirect="true"/>
+  <file name="sample-logic-xosphere-kontact.html" crc="392402440" seo="true" mt="1553585792030" redirect="true"/>
+  <file name="sample-logic-–-xosphere-2-kontakt-library.html" crc="4188506812" seo="true" mt="1553585810293" redirect="true"/>
+  <file name="samplehero-evoque-vocal-synth-kontakt-library.html" crc="4220931616" seo="true" mt="1553585822499" redirect="true"/>
+  <file name="sampletank-vst.html" crc="3891590817" seo="true" mt="1553585833124" redirect="true"/>
+  <file name="sausage-fattener-vst-plugin.html" crc="4048969175" seo="true" mt="1553585840069" redirect="true"/>
+  <file name="scaler-vst.html" crc="273612426" seo="true" mt="1553585848317" redirect="true"/>
+  <file name="scarbee-vintage-keys-kontakt-library.html" crc="4123907170" seo="true" mt="1553585870227" redirect="true"/>
+  <file name="scott-storch-vst.html" crc="3804100085" seo="true" mt="1553585878830" redirect="true"/>
+  <file name="serato-sample-vst-plugin.html" crc="452718929" seo="true" mt="1553585888644" redirect="true"/>
+  <file name="session-guitarist-electric-sunburst-kontakt-vst-library.html" crc="4059790943" seo="true" mt="1553585901705" redirect="true"/>
+  <file name="shevannai-the-voices-of-elves-kontakt-library.html" crc="4201872648" seo="true" mt="1553585909623" redirect="true"/>
+  <file name="sidify-spotify-music-converter.html" crc="165247876" seo="true" mt="1553585920083" redirect="true"/>
+  <file name="slate-digital-vmr-complete-bundle-vst.html" crc="231212738" seo="true" mt="1553585927608" redirect="true"/>
+  <file name="slate-digital-verbsuite-classics-plugin.html" crc="3955479438" seo="true" mt="1553585936597" redirect="true"/>
+  <file name="slate-digital-virtual-buss-compressors-vst.html" crc="122633771" seo="true" mt="1553585949425" redirect="true"/>
+  <file name="softplug-adventus-vst.html" crc="51298361" seo="true" mt="1553585956897" redirect="true"/>
+  <file name="solid-state-logic-duende-native-vst.html" crc="3898020379" seo="true" mt="1553585967654" redirect="true"/>
+  <file name="sonalksis-all-plugins-bundle-vst.html" crc="487467726" seo="true" mt="1553585976069" redirect="true"/>
+  <file name="sonarworks-reference-4-studio.html" crc="4126096612" seo="true" mt="1553585989868" redirect="true"/>
+  <file name="sonic-academy-kick-2-vst.html" crc="3779819115" seo="true" mt="1553585998150" redirect="true"/>
+  <file name="sonik-synth-2-vsti.html" crc="4154652215" seo="true" mt="1553586007315" redirect="true"/>
+  <file name="sony-spectralayers-pro.html" crc="60057542" seo="true" mt="1553586020225" redirect="true"/>
+  <file name="sound-normalizer.html" crc="520630009" seo="true" mt="1553586029715" redirect="true"/>
+  <file name="soundtoys-v5-vst.html" crc="4233599951" seo="true" mt="1553586036775" redirect="true"/>
+  <file name="soundplant.html" crc="3936198228" seo="true" mt="1553586046590" redirect="true"/>
+  <file name="spectrasonics-omnisphere-2-complete-pack.html" crc="4111396274" seo="true" mt="1553586055908" redirect="true"/>
+  <file name="spectrasonics-stylus-rmx-vsti.html" crc="33011824" seo="true" mt="1553586068330" redirect="true"/>
+  <file name="spectrasonics-trilian-vsti.html" crc="80448044" seo="true" mt="1553586078716" redirect="true"/>
+  <file name="spinnin-records-base-vst.html" crc="3870787434" seo="true" mt="1553586090890" redirect="true"/>
+  <file name="spitfire-audio-labs-kontakt-libraries.html" crc="169001213" seo="true" mt="1553586100867" redirect="true"/>
+  <file name="steven-slate-drums-ssd4-sampler---library-platinum.html" crc="4180959468" seo="true" mt="1553586110710" redirect="true"/>
+  <file name="sugarbytes-effectrix.html" crc="86171840" seo="true" mt="1553586118646" redirect="true"/>
+  <file name="superior-drummer-3.html" crc="267060255" seo="true" mt="1553586125945" redirect="true"/>
+  <file name="swar-systems-swarplugin.html" crc="3837433850" seo="true" mt="1553586150704" redirect="true"/>
+  <file name="sylenth1-preset-banks-collection.html" crc="4050018716" seo="true" mt="1553586160089" redirect="true"/>
+  <file name="symphony-essentials-percussion-kontakt-library.html" crc="3816813438" seo="true" mt="1553586170707" redirect="true"/>
+  <file name="synapse-audio-dune-vsti.html" crc="139757626" seo="true" mt="1553586179248" redirect="true"/>
+  <file name="synapse-audio-dune-3-vst.html" crc="3912897738" seo="true" mt="1553586188656" redirect="true"/>
+  <file name="synchro-arts-revoice-pro.html" crc="145556492" seo="true" mt="1553586196281" redirect="true"/>
+  <file name="synthmaster-one-vst.html" crc="41862463" seo="true" mt="1553586207923" redirect="true"/>
+  <file name="tal-u-no-lx-vst.html" crc="3898008453" seo="true" mt="1553586220977" redirect="true"/>
+  <file name="th-studio-trailer-elements-cinematic-sounds-pack-kontakt-library.html" crc="196352186" seo="true" mt="1553586234237" redirect="true"/>
+  <file name="tag-rename.html" crc="327044796" seo="true" mt="1553586243162" redirect="true"/>
+  <file name="tone2-electra2.html" crc="3893507445" seo="true" mt="1553586255013" redirect="true"/>
+  <file name="tone2-gladiator-vsti.html" crc="395431954" seo="true" mt="1553586270790" redirect="true"/>
+  <file name="tone2-icarus.html" crc="4226381556" seo="true" mt="1553586280114" redirect="true"/>
+  <file name="tone2-–-electrax.html" crc="3893288139" seo="true" mt="1553586288548" redirect="true"/>
+  <file name="toontrack-ezmix-2-with-expansion-pack.html" crc="213946773" seo="true" mt="1553586297649" redirect="true"/>
+  <file name="toontrack-ezkeys-complete-vsti.html" crc="4259052537" seo="true" mt="1553586312697" redirect="true"/>
+  <file name="toraverb-vst.html" crc="4209362695" seo="true" mt="1553586329256" redirect="true"/>
+  <file name="tracktion-5.html" crc="333234935" seo="true" mt="1553586336716" redirect="true"/>
+  <file name="tracktion-waveform-9-vst.html" crc="3867802197" seo="true" mt="1553586342790" redirect="true"/>
+  <file name="tunefab-spotify-music-converter.html" crc="181168443" seo="true" mt="1553586351639" redirect="true"/>
+  <file name="vsl-horizon-series-saxophones-i-kontakt-library.html" crc="4146904951" seo="true" mt="1553586362915" redirect="true"/>
+  <file name="valhalla-plate--room--vintage-verb-vst.html" crc="431953805" seo="true" mt="1553586388261" redirect="true"/>
+  <file name="vengeance-avenger.html" crc="4237165160" seo="true" mt="1553586394932" redirect="true"/>
+  <file name="vengeance-electroshock-vol-1-and-2.html" crc="4209036408" seo="true" mt="1553586407138" redirect="true"/>
+  <file name="vintage-organs-kontakt-library.html" crc="3846026056" seo="true" mt="1553586414953" redirect="true"/>
+  <file name="virtual-audio-cable.html" crc="3937181451" seo="true" mt="1553586423832" redirect="true"/>
+  <file name="virtual-dj-studio-2015.html" crc="4244772534" seo="true" mt="1553586429689" redirect="true"/>
+  <file name="vox-engine-2-for-kontakt.html" crc="240069602" seo="true" mt="1553586437491" redirect="true"/>
+  <file name="voxal-voice-changer.html" crc="4147598836" seo="true" mt="1553586451007" redirect="true"/>
+  <file name="widi-music-recognition-system-pro.html" crc="211173418" seo="true" mt="1553586464704" redirect="true"/>
+  <file name="wavepad-sound-editor-master-edition.html" crc="3972029635" seo="true" mt="1553586472362" redirect="true"/>
+  <file name="waves-complete-plugins-2018-v10.html" crc="4243492438" seo="true" mt="1553586482334" redirect="true"/>
+  <file name="wondershare-streaming-audio-recorder.html" crc="500339426" seo="true" mt="1553586491845" redirect="true"/>
+  <file name="xils-vocoder-5000-vsts.html" crc="231066318" seo="true" mt="1553586503079" redirect="true"/>
+  <file name="xfer-records-cthulhu.html" crc="3773329054" seo="true" mt="1553586512257" redirect="true"/>
+  <file name="xfer-records-lfotool-vst.html" crc="178297911" seo="true" mt="1553586525813" redirect="true"/>
+  <file name="xfer-records-serum-serumfx-cthulhu-lfotool-ott.html" crc="4099082641" seo="true" mt="1553586536721" redirect="true"/>
+  <file name="xfer-serum-1.20.b5.html" crc="114781032" seo="true" mt="1553586552022" redirect="true"/>
+  <file name="yamaha-vocaloid-v4.html" crc="3864151417" seo="true" mt="1553586560452" redirect="true"/>
+  <file name="yamaha-vocaloid-5.0.3---libraries-standalone-vsti.html" crc="196451220" seo="true" mt="1553586570518" redirect="true"/>
+  <file name="yogen-vocal-remover.html" crc="4273072840" seo="true" mt="1553586577187" redirect="true"/>
+  <file name="youlean-loudness-meter-pro-vst-plugin.html" crc="242443666" seo="true" mt="1553586588420" redirect="true"/>
+  <file name="zynaptiq-–-morph-vst.html" crc="469255757" seo="true" mt="1553586599056" redirect="true"/>
+  <file name="izotope-insight-vst.html" crc="4287610729" seo="true" mt="1553586605365" redirect="true"/>
+  <file name="izotope-mobius-filter-vst.html" crc="190180679" seo="true" mt="1553586616227" redirect="true"/>
+  <file name="izotope-nectar-3-plugin.html" crc="252947927" seo="true" mt="1553586625223" redirect="true"/>
+  <file name="izotope-ozone-6-advanced.html" crc="408872602" seo="true" mt="1553586634184" redirect="true"/>
+  <file name="izotope-ozone-advanced-8-vst.html" crc="383665861" seo="true" mt="1553586643415" redirect="true"/>
+  <file name="izotope-ozone-advanced-v7.html" crc="4215278974" seo="true" mt="1553586667116" redirect="true"/>
+  <file name="izotope-rx-6-audio-editor-advanced.html" crc="3855638868" seo="true" mt="1553586677678" redirect="true"/>
+  <file name="izotope-rx-7-audio-editor-advanced-vst.html" crc="76501959" seo="true" mt="1553586688479" redirect="true"/>
+  <file name="izotope-rx-loudness-control.html" crc="456447757" seo="true" mt="1553586696605" redirect="true"/>
+  <file name="izotope-stutter-edit.html" crc="385102817" seo="true" mt="1553586711220" redirect="true"/>
+  <file name="izotope-trash-2-vst.html" crc="468685131" seo="true" mt="1553586718787" redirect="true"/>
+  <file name="izotope-vocal-doubler-vst.html" crc="3805597344" seo="true" mt="1553586727512" redirect="true"/>
+  <file name="izotope-vocalsynth.html" crc="64278386" seo="true" mt="1553586735321" redirect="true"/>
+  <file name="izotope-vocalsynth-v2.html" crc="314403680" seo="true" mt="1553586744610" redirect="true"/>
+  <file name="jbridge.html" crc="4077291393" seo="true" mt="1553586754556" redirect="true"/>
+  <file name="n-track-studio-ex.html" crc="4096381172" seo="true" mt="1553586788474" redirect="true"/>
+  <file name="tone2-saurus2.html" crc="495046853" seo="true" mt="1553586800157" redirect="true"/>
+  <file name="u-he-hive-vsti.html" crc="4286512138" seo="true" mt="1553586812464" redirect="true"/>
+  <file name="zplane-elastique-pitch-vst.html" crc="3987008454" seo="true" mt="1553586819709" redirect="true"/>
+</manifest>
